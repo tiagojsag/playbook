@@ -11,6 +11,7 @@ The “Vizzuality Ethos” is the methodology of how we undertake our projects. 
 
 ## Development
 
+- [x] [Data standards](data-standards/index.md)
 - [x] [Implementation default](implementation-default/index.md)
 
 ## Process
