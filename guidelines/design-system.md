@@ -31,6 +31,9 @@ This is an internal tool to help designers build in a more efficient way differe
 2. Rename it following the file naming guideline in “Folder and file architecture”
 3. Design in the ‘Wireframe’ page helped by the created symbols and templates (for further information about how to use symbols, consult [Symbols in the Sketch documentation](https://sketchapp.com/docs/symbols/))
 
+## How to present it
+To give context or further explanations to the wireframe when sharing it, here you are some PDF as a reference and templates to build the presentation: https://www.dropbox.com/sh/t3fulazhja31new/AABuqP23lJvc8JxF4DdeBI8_a?dl=0
+
 
 # UI Kit Template.
 There is a UI Kit template we’ve created and that should be used for the rest of designers during the design process. The sooner there’s a visual design line defined (in a difference with the exploration phase) the better. Using this UI Kit soon will save time and avoid future inconsistencies.  
