@@ -5,7 +5,7 @@ A good (or bad) hiring decision affects us all and we believe the process should
 
 This document outlines the general processes, tools and guidelines we use in a hiring process, and assumes the decision to hire someone has already been taken and the resources allocated. The process for deciding when to open a position is not covered here.
 
-## Writing a Job Description
+## Writing a job description
 Job descriptions should be based on the evaluation of the role we are looking for, its key responsibility areas, the competencies, and the characteristics we value in all team members, such as:
 
 - Aligned to our purpose and vision.
@@ -58,7 +58,7 @@ When writing a job description we should always check our text for gender or rac
 
 We sometimes use automatic tools to check the text for gender bias (link to tool here), but in general it’s always good to have a few people read it to refine and spot possible issues.
 
-## Posting the Job ad
+## Posting the job ad
 
 Once the description has been written and reviewed we use BambooHR to publish it and manage the selection process. When creating a selection process there’s a few options to fill in, such as title, description, contract type or location. Please provide a BambooHR admin with this info to post the ad.
 
@@ -86,21 +86,21 @@ Additionally there are other resources that can be used:
 [Betabeers](https://betabeers.com/post/): Promotes job openings for devs, in Spain only, 50 € per announcement
 Add more here
 
-### For Designers
+### For designers
 [Domestika](https://www.domestika.org/en/jobs): Mainly design/UX related jobs in Spain. Free.
 
-### For Data Scientists
+### For data scientists
 
 ### Others?
 
-## Selection Process
+## Selection process
 Once the post is live, collaborators will receive email updates about new candidates, comments or status changes.
 
-### Point-person
-A point-person will be selected (usually this role is occupied by the creator of the advert). The point-person role will have the responsibility of assigning new candidates to each of the process' collaborators. This can be done in a first came, first served basis.
+### Coordinator
+A coordinator will be selected (usually this role is occupied by the creator of the advert). The coordinator role will have the responsibility of assigning new candidates to each of the process' collaborators. This can be done in a first come, first served basis.
 
 ### Collaborator
-When a collaborator is assigned to a new candidate, he has the objective of getting the candidate through the hiring pipeline as soon as possible: either hiring the candidate or rejecting him.
+When collaborators are assigned to a new candidate, they have the objective of getting the candidates through the hiring pipeline as soon as possible: either hiring the candidates or rejecting them.
 
 <!--- I think we should give access to the candidates to more people, and not just the collaborators. This can allow a collaborator to reach out to a person who hasn't volunteered and ask/assign that person to help out in one of the steps.
 THOUGHTS ??
@@ -109,13 +109,13 @@ THOUGHTS ??
 The collaborators don't have the responsability to perform any of the steps in the hiring pipeline by themselves. Their main responsability is to find people in the company that can participate in the necessary steps.
 
 ### Steps
-> While it's very important to have empathy for the candidates throughout the process; we mustn't forget that moving a candidate forward is time consuming and has a cost, both for the company, and the candidate. Therefore it's vital to reject candidates as soon in the process as possible.
+> While it's very important to have empathy for the candidates throughout the process; we mustn't forget that moving a candidate forward is time consuming and has a cost, both for the company, and the candidate. Therefore it's vital to reject candidates as early in the process as possible if they are not a fit.
 
 #### First filter
 A first screening can be done at this point where any of the participants can suggest to discard a candidate as “not a fit”, “not qualified” or “over qualified”. The decision to discard a candidate should be made by consent, meaning if there’s no principled objections the candidate can be discarded.
 
 #### Review
-Candidates who pass the first filter can either be marked as “reviewed” or “put on hold”. The choice is basically about priority. A candidate shouldn't be placed on hold for more that a reasonable amount of time (2 - 3 weeks), once that time has past the candidate should be contacted to advance in the process or be notified about rejection.
+Candidates who pass the first filter can either be marked as “reviewed” or “put on hold”. The choice is basically about priority. A candidate shouldn't be placed on hold for more that a reasonable amount of time (2 - 3 weeks), once that time has passed the candidate should be contacted to advance in the process or be notified about rejection.
 
 If the candidate looks promising but there’s more info needed (code samples, certifications, visa status, motivations, etc): collaborators can send an email through the system requesting it (there are available templates on BambooHR for this) and change the status to “Requested more info". If a candidate doesn't reply to the request for more info after a reasonable amount of time (2 weeks), the candidate should be dismissed.
 
@@ -124,13 +124,13 @@ Once a satisfactory response has been received applicant can be discarded, moved
 #### Phone screen
 Once a candidate is set as “reviewed”, the responsible collaborator has the responsibility of finding the appropriate people inside the company to participate in the call; collaborators should also email the candidate, and change status to “Scheduled Phone Screen”.
 
-The phone screening is a short introductory call where we try to solve doubts and get a better sense of the candidate and their fit.
+The phone screening is a short introductory call where we try to solve doubts and get a better sense of the candidate and how they fit with the role.
 
 Ideally phone screening should be performed by two people, one of which should be in a functional role that is similar to the open position. There should be a brief preparation beforehand where the participants identify the things they want to find out and share with the participant.
 
-It's very important to remember that a phone screening isn't an interview. Therefore it should be to the point, covering only things partipants want to learn about, or share with the candidate.
+It's very important to remember that a phone screening isn't an interview. Therefore it should go to the point, covering only things partipants want to learn about, or share with the candidate.
 
-[TBD] Ideally ~at least a part of~ the phone screening should be counducted in English.
+[TBD] Ideally ~at least a part of~ the phone screening should be conducted in English.
 
 We have a template (WIP) with possible questions for these calls. In general they should be open and focus on the competencies, skills and cultural fit of the candidate.
 
@@ -139,7 +139,7 @@ Apart from other specific issues (such as availability, english language, etc) w
 Outcomes of the call should be documented in the “comments” section on BambooHR candidate's page. Candidate will then be moved to "Phone screened" or discarded and informed accordingly.
 
 #### Challenge
-Some times we may request a skill challenge to the candidates. Challenges are normally requested to candidates whose provided portafolio isn't enough to determine their skills. Specific roles may have pre-created Challenges (e.g. [Front end coding chalenge](https://github.com/Vizzuality/coding-challenge-examples) ---> [TBD] create challenges for other roles?)
+Sometimes we may request a skill challenge to the candidates. Challenges are normally requested to candidates whose provided portafolio isn't enough to determine their skills. Specific roles may have pre-created Challenges (e.g. [Front end coding chalenge](https://github.com/Vizzuality/coding-challenge-examples) ---> [TBD] create challenges for other roles?)
 
 The assigned collaborator should explain clearly what we expect from the challenge, how much effort we think the candidate should put on it, the general rules and what we will be trying to learn from it. The challenge will have a reasonable time limit (1 week), that depending on the motive can be extended if necessary.
 
@@ -152,13 +152,13 @@ Sucessful candidates are set for an interview. Interviews, when possible, should
 
 ##### Interview participants
 
-Ideally there should be between two and three people performing the interview. The interviewers should occupy a role with equal or higher seniority. It's preferable to have as much diversity among the interviewers (role, gender, seniority) as possible.
+Ideally there should be between two and three people performing the interview. The interviewers should include someone in a similar role with equal or higher seniority. It's preferable to have as much diversity among the interviewers (role, gender, seniority) as possible.
 
 ##### Preparing the interview
 
 In the preparation we will try to converge on the most important topics to talk about and the things we want to learn/clarify. By this stage, we should know more or less about the skills and experience of the participant; the main focus should be on clarifying and cementing what we know. **A key thing to keep in mind at this stage is cultural fit: we want people that want to stay at Vizzuality because they like who we are and what we do.**
 
-Once the participants have converged on what they want to take out of the interview, they should write it down is a small list of things to ask/evaluate. (This script can be inspired in the existing template, but should be adapted to what we need to learn and who are we interviewing. The existing template is quite thorough, we probably don't need to cover all of it, and should be used as a guideline only).
+Once the participants have converged on what they want to take out of the interview, they should write it down in a small list of things to ask/evaluate. (This script can be inspired in the existing template, but should be adapted to what we need to learn and who are we interviewing. The existing template is quite thorough, we probably don't need to cover all of it, and should be used as a guideline only).
 
 ##### During the interview
 
