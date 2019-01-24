@@ -64,7 +64,10 @@ Once the description has been written and reviewed we use BambooHR to publish it
 
 There’s also the possibility to add required or optional application questions such as CV, cover letter, link to personal website, LinkedIn or GitHub account, available date, etc Custom questions can also be added.
 
-After creting the advert, collaborators can be assigned to open positions. Collaborators will have access to all the application data (except for private fields such as desired salary) and ability to score, comment or contact applicants
+After creting the advert, the opening will be announced internally to all company (a good place to do this is in the #general channel). During this announcement, it's recommended to remind employees about their referal bonus and ask to share it as broadly as possible. It's important to ask for volunteers to work as collaborators during the incoming hiring process.
+ 
+People who volunteer will be added as collaborators to the BambooHR application feed.
+Collaborators will have access to all the application data (except for private fields such as desired salary) and ability to score, comment or contact applicants.
 
 ## Promoting the ad
 
@@ -91,66 +94,97 @@ Add more here
 ### Others?
 
 ## Selection Process
-Once the post is live, collaborators will receive email updates about new candidates, coments or status changes. They are expected to regularly check new candidates, rank them and post comments about them. A slack channel (eg #front-end-hiring) can also be created to make this process easier.
+Once the post is live, collaborators will receive email updates about new candidates, coments or status changes.
 
+### Point-person
+A point-person will be selected (usually this role is occupied by the of the advert). The point-person role will have the responsibility of assigning new candidates to each of the process' collaborators. This can be done in a first came, first served basis.
 
-### First filter
-A first screening can be done at this pont where any of the collaborators can suggest to discard a candidate as “not a fit”, “not qualified” or “over qualified”. The decision to discard a candidate should be made by consent, meaning if there’s no principled objections the candidate can be discarded.
+### Collaborator
+When a collaborator is assigned to a new candidate, he has the objective of getting the candidate through the hiring pipeline as soon as possible; either hiring the candidate or rejecting him.
 
-### Review
-Candidates who pass the first filter can either be marked as “reviewed” or “put on hold”. The choice is basically about priority
+<!--- I think we should give access to the candidates to more people, and not just the collaborators. This can allow a collaborator to reach out to a person who hasn't volunteered and ask/assign that person to help out in one of the steps.
+THOUGHTS ??
+--->
 
-If the candidate looks promissing but there’s any more info needed (code samples, certifications, visa status, motivations, etc) then collaborators can send an email through the system requesting it (there are available templates on BambooHR for this) and change the status to “Requested more info".
+The collaborator doesn't have the responsability to perform any of the steps in the hiring pipeline by himself. His main responsability is to find people in the company that can participate in the necessary steps.
+
+### Steps
+> While it's very important to have empathy for the candidates throughtout the process; we mustn't forget that moving a candidate forward is time consuming and has a cost, both for the company, and the candidate. Therefore it's vital to reject candidates as soon in the process as possible.
+
+#### First filter
+A first screening can be done at this point where any of the participants can suggest to discard a candidate as “not a fit”, “not qualified” or “over qualified”. The decision to discard a candidate should be made by consent, meaning if there’s no principled objections the candidate can be discarded.
+
+#### Review
+Candidates who pass the first filter can either be marked as “reviewed” or “put on hold”. The choice is basically about priority. A candidate shouldn't be placed on hold for more that a reasonable amount of time (2 - 3 weeks), once that time has past the candidate should be contacted to advance in the process or to be notified about rejection.
+
+If the candidate looks promissing but there’s more info needed (code samples, certifications, visa status, motivations, etc) then collaborators can send an email through the system requesting it (there are available templates on BambooHR for this) and change the status to “Requested more info". If a candidate doesn't reply to the request for more info after a reasonable amount of time (2 weeks), the candidate should be dismissed.
 
 Once a satisfactory response has been received applicant can be discarded, moved to “reviewed”, or “put on hold”.
 
-### Phone screen
-Collaborators should regularly check for “reviewed” candidates and schedule a first phone screen (emailing the candidate and changing status to “Scheduled Phone Screen”). This is a short introductory call where we try to solve doubts and get a better sense of the candidate and their fit.
+#### Phone screen
+Once a candidate is set as “reviewed”, the responsible collaborator has the responsibility of finding the appropriate people inside the company to participate in the call; collaborator should also email the candidate, and change status to “Scheduled Phone Screen”.
 
-Ideally phone screen should be prerformed by at least two people, one of which should be in a functional role that is similar to the open position. There should be a brief preparation beforehand prioritizing the items to focus on. 
+This phone screen is a short introductory call where we try to solve doubts and get a better sense of the candidate and their fit.
 
-[TBD] Ideally at least a part of the phone screen should be counducted in English
+Ideally phone screen should be prerformed by at least two people, one of which should be in a functional role that is similar to the open position. There should be a brief preparation beforehand where the participants identify the things they want to find out and share with the participant.
 
-We have a template (WIP) with possible questions for these calls. In general they should be open and focus on the competencies, skills and cultural fit of the candidate, but remember this is not an interview, so should also be kept short.
+It's very important to remember that a phone screening isn't an interview. Therefore it should to the point, covering only things partipants want to learn about or share with the candidate.
+
+[TBD] Ideally ~at least a part of~ the phone screening should be counducted in English.
+
+We have a template (WIP) with possible questions for these calls. In general they should be open and focus on the competencies, skills and cultural fit of the candidate.
 
 Apart from other specific issues (such as availability, english language, etc) we should focus on the candidate’s motivation and offer to solve any doubts they may have about the position or the company.
 
-Brief minutes of the call should be documented in the “comments” section. Candidate will then be moved to "Phone screened" or discarded and informed accordingly.
+Outcomes of the call should be documented in the “comments” section on BambooHR candidate's page. Candidate will then be moved to "Phone screened" or discarded and informed accordingly.
 
-### Challenge
-Some times we may request a skill challenge to the candidates. Challenges are normally requested to candidates whose provided portafolio isn't enough to determine their skills. Specific roles may have pre-created Challenges (e.g. Front end coding chalenge ---> link to code challenges [TBD] create challenges for other roles?)
+#### Challenge
+Some times we may request a skill challenge to the candidates. Challenges are normally requested to candidates whose provided portafolio isn't enough to determine their skills. Specific roles may have pre-created Challenges (e.g. [Front end coding chalenge](https://github.com/Vizzuality/coding-challenge-examples) ---> [TBD] create challenges for other roles?)
 
-We should explain clearly what we expect from the challenge, how much effort we think the candidate should put on it, the general rules and what we will be trying to learn from it. After sending the challenge candidate should be moved to "Requested Challenge"
+The assigned collaborator should explain clearly what we expect from the challenge, how much effort we think the candidate should put on it, the general rules and what we will be trying to learn from it. The challenge will have a reasonable time limit (1 week), that depending on the motive can be extended if necessary.
 
-Once the challenge solution is received collaborators should do a round of discussion around it, evaluate it and ask for clarifications if needed.
+Once the challenge solution is received, the assigned collaborator should find participants to do a round of discussion around it, evaluate it and ask for clarifications if needed.
 
-Candidates can then be discarded, put on hold or move to the next step in the process by consent. In all cases candidates should be contacted and informed
+Candidates can then be discarded, put on hold or moved to the next step in the process by consent. In all cases candidates should be contacted and informed.
 
-### Interview
+#### Interview
 Sucessful candidates are set for an interview. Interviews, when possible, should be conducted in person. If it’s hard to make it in person then we should make sure we have a proper set-up with cameras, a quiet environment and a good microphone. We should also set aside enough time for preparing and conducting the interview.
 
-Ideally there should be at least two people in a similar role and with equal or higher seniority, plus other relevant roles in the interview. In the preparation we will try to converge on the most important topics to talk about and the things we want to learn/clarify
+##### Interview participants
 
-We should have a rough script of the questions we want to ask and what we want to assess with them, focusing on competencies and skills. We should also document responses and impressions in a way other people who weren’t there can understand them
+Ideally there should be between two and three people performing the interview. The interviewers should occupy a role with equal or higher seniority. It's preferable to have as much diversity among the interviewer (role, gender, seniority) as possible.
 
-Before the interview we should have shared with the candidate our ideas around their level (junior, mid, senior...) and a doc with the competencies and skils (additional to those listed in the job description)
+##### Preparing the interview
 
-[TBD] Ideally at least a part of the interview should be counducted in English
+In the preparation we will try to converge on the most important topics to talk about and the things we want to learn/clarify. By this stage, we should know more less about the skills and experience of the participant; the main focus should be on clarifying and cementing what we know. A key thing to keep in mind at this stage is cultural fitness: we want people that want to stay at Vizzuality because they like who we are and what we do.
+
+Once the participants have converged on what they want to take out of the interview, they should write them down is a small list of things to ask/evaluate. (This script can be inspired in the existing template, but should be adapted to what we need to learn and who are we interviewing. The existing template is quite thorough, we probably don't need to cover all of it, and should be used as a guideline only).
+
+##### During the interview
+
+[TBD] Ideally ~at least a part of~ the interview should be conducted in English
 
 A rough outline of the interview could go like this:
 
 - Present everyone in the room, who you are, what you do, etc
-- Tell the candidate about our general impression and why we think they are a fit (so far) Tell them also about what we want to get from this interview, and explain the process from here
-- Tell the candidate we will be taking notes that may be shared with others in the team, and ask if that’s ok
+- Tell the candidate about our general impression and why we think they are a fit (so far). Share our ideas around their level (junior, mid, senior...).
+- Tell them about what we want to get out from this interview, and explain the process.
+- Tell the candidate we will be taking notes that may be shared with others in the team, and ask if that’s ok.
 - Listen to the candidate's motivation to join us, expectations, reasons to change, background, etc. 
-- Ask if they want any clarifications about the role or the company
-- Converge on expectations. Explain what we expect from the role, discuss our level evaluation and explain salary tiers. Explain benefits
-- Ask open questions about different topics [WIP create template with open questions]
-- Explain next steps and wrap up
+- Ask if they want any clarifications about the role or the company.
+- Converge on expectations. Explain what we expect from the role, discuss our level evaluation and explain salary tiers.
+- Ask them if they have any questions about our company and our work.
+- Explain benefits.
+- Ask open questions about different topics, follow the prepared script.
+- Ask them again if they have any questions about our company and our work.
+- Explain next steps and wrap up.
 
-After the interview the minutes and impressions are posted to the comments section, and candidate is set as “Interviewed” or discarded using consent, in which case candidate should be informed.
+##### After the interview
+After the interview the participants should have a quick debrief session, sharing their individual scores for the candidate. Each participant should grade the candidate based on the match with what they previously set to find out and listed as a script.
 
-### Final decision
+The collaborator should reach out to the participant and gather their notes. Posting to the comments section, and setting the candidate as “Interviewed” or discarding using consent, in which case candidate should be informed.
+
+#### Final decision
 When there’s one or more sucessful interviewed candidates we have a number of options, all decisions to be made by consent:
 
 - Choose one of them and make an offer 
