@@ -159,9 +159,9 @@ When there’s one or more sucessful interviewed candidates we have a number of 
 
 In principle there’s not a limit to the number of interviews, but we should also be conscious of the candidate’s time and availability. 
 
-Whatever the case the candidate should be contacted an informed
+Whatever the case the candidate should be contacted and informed
 
-If there’s a consent to hire a candidate we should send a formal offer. This is legaly binding, so it should be signed by someone in the exec team.
+If there’s a consent to hire a candidate we should send a formal offer. This is legally binding, so it should be signed by someone in the exec team.
 
 If the candidate accepts the offer a pre-contract is signed and all the remaining candidates are informed.
 
