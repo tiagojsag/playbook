@@ -148,7 +148,16 @@ Understanding others points of views and finding ways to come to a positive outc
 * I speak and write English at level C2.
 
 
-## Excellence
+## **Excellence**
+
+Understanding what is needed to deliver a task to the best possible standard.
+
+Paying attention to the quality of what we do in any task. Leaving no _i_ without a dot and no list unsorted.
+
+Keeping best practices and standards in mind, as well as thinking on how to improve them.
+
+Knowing that our work, our skills and our processes can also be improved.
+
 
 **Step 1**
 
