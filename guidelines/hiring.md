@@ -102,9 +102,7 @@ A coordinator will be selected (usually this role is occupied by the creator of 
 ### Collaborator
 When collaborators are assigned to a new candidate, they have the objective of getting the candidates through the hiring pipeline as soon as possible: either hiring the candidates or rejecting them.
 
-<!--- I think we should give access to the candidates to more people, and not just the collaborators. This can allow a collaborator to reach out to a person who hasn't volunteered and ask/assign that person to help out in one of the steps.
-THOUGHTS ??
---->
+If any member of the company wants to join as a collaborator once the process has started, they can do so by reaching out to anyone involved in the process. After which they will be added as a collaborator.
 
 The collaborators don't have the responsability to perform any of the steps in the hiring pipeline by themselves. Their main responsability is to find people in the company that can participate in the necessary steps.
 
@@ -156,7 +154,7 @@ Ideally there should be between two and three people performing the interview. T
 
 ##### Preparing the interview
 
-In the preparation we will try to converge on the most important topics to talk about and the things we want to learn/clarify. By this stage, we should know more or less about the skills and experience of the participant; the main focus should be on clarifying and cementing what we know. **A key thing to keep in mind at this stage is cultural fit: we want people that want to stay at Vizzuality because they like who we are and what we do.**
+In the preparation we will try to converge on the most important topics to talk about and the things we want to learn/clarify. By this stage, we should have more or less a sense of the candidates experience; the main focus should be on clarifying and cementing what we know. If we feel that there's areas where we haven't deepen enough these should be added to the interview agenda. **A key thing to keep in mind at this stage is cultural fit: we want people that want to stay at Vizzuality because they like who we are and what we do.**
 
 Once the participants have converged on what they want to take out of the interview, they should write it down in a small list of things to ask/evaluate. (This script can be inspired in the existing template, but should be adapted to what we need to learn and who are we interviewing. The existing template is quite thorough, we probably don't need to cover all of it, and should be used as a guideline only).
 
