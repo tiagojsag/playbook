@@ -18,17 +18,19 @@ Organizing and prioritizing work, by responding to conflicting needs or seeking 
 
 **Step 1**
 
-* I approach tasks with a "can-do" attitude, promptly notify colleagues about any problems that affect my ability to accomplish goals and seek feedback from my manager and peers.
+* I approach tasks with a “can-do” attitude, promptly notify colleagues about any problems and seek feedback from my peers.
 
-* I use systems to organize and keep track of information or work progress that my peers, managers and clients can understand and verify.
+* I use systems to organize and keep track of information and work progress that my peers and clients can understand and verify.
 
-* I set, with my team, specific, measurable goals that are realistic but challenging, with clear dates for accomplishment.I also seek  the information, resources, and training needed to accomplish my work effectively.
+* I set, with my team, specific, measurable goals with clear dates for accomplishment.
+
+* I seek  the information, resources, and training needed to accomplish my work effectively.
 
 **Step 2**
 
 * I stay informed about my own and my team’s progress and performance, deal firmly and promptly with problems and act with flexibility to improve.
 
-* I can effectively handle several problems or tasks at once, make decisions, prioritize and take pragmatic compromises in difficult or ambiguous situations, when time is critical.
+* I can effectively handle several problems or tasks at once, make decisions, prioritize and take pragmatic compromises in difficult, urgent or ambiguous situations.
 
 * I have a strong sense of urgency about solving problems and getting work done and maintain commitment to goals in the face of obstacles and frustrations over time.
 
@@ -42,6 +44,14 @@ Organizing and prioritizing work, by responding to conflicting needs or seeking 
 
 * I let people know what is expected of them and when.
 
+* I ensure that the individuals and the team have clear (challenging but achievable) goals and responsibilities
+
+* I support team members in their efforts to achieve job goals (e.g., by providing resources, removing obstacles) and stay informed about progress and performance.
+
+* I find or create ways to measure and improve performance against goals, provide specific performance feedback, both positive and corrective, and deal firmly and promptly with performance problems.
+
+* I let people know what is expected of them and when.
+
 ## **Thoroughness**
 
 Ensuring the **quality** of our individual work and projects.
@@ -52,7 +62,7 @@ Ensuring that one’s own and team’s work are complete, accurate and have the 
 
 **Step 1**
 
-* I quickly and effectively solve customer problems, let them know I’m willing to work with them to meet their needs and follow up to make sure they are satisfied with what they are getting.
+* I quickly and effectively solve customer problems, let them know I’m willing to work with them and follow up to make sure they are satisfied.
 
 * I make sure my work is correct before delivering it, testing it against the specifications, objectives and quality standards.
 
@@ -62,7 +72,7 @@ Ensuring that one’s own and team’s work are complete, accurate and have the 
 
 **Step 2**
 
-* I verify requirements and tasks are aligned to project and client’s goals, carefully review and check the quality of information and materials provided by clients, management, or peers and help them solve any issues I find.
+* I verify requirements and tasks are aligned to project and client’s goals, carefully review and check the quality of information and materials provided by clients or peers and help them solve any issues I find.
 
 * I monitor the quality of work, not just when doing it, but further in the development and through project delivery, critically reflecting back on its quality contribution to the project.
 
