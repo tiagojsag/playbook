@@ -1,12 +1,12 @@
-# **Vizzuality's Core Competencies**
 
-*Competencies describe the knowledge, skills, behaviors, attributes, abilities, and attitudes that are essential to achieving the results expected. *
+
+*Competencies describe the knowledge, skills, behaviors, attributes, abilities, and attitudes that are essential to achieving the results expected.*
 
 *A competency is a significant talent, skill, or proficiency that helps an individual generate superior performance.*
 
 # **Core Competencies**
 
-# **Impact**
+## **Impact**
 
 Generating **results**.
 
@@ -42,7 +42,7 @@ Organizing and prioritizing work, by responding to conflicting needs or seeking 
 
 * I let people know what is expected of them and when.
 
-# **Thoroughness**
+## **Thoroughness**
 
 Ensuring the **quality** of our individual work and projects. 
 
@@ -76,7 +76,7 @@ Ensuring that one’s own and team’s work are complete, accurate and have the 
 
 * I find ways to measure and track customer satisfaction and setup procedures to ensure high quality of work.
 
-# **Collaboration**
+## **Collaboration**
 
 Working cooperatively in a **team**
 
@@ -110,20 +110,60 @@ Willing to modify one’s preferred way of doing things, to understand and appre
 
 * I promote cooperation with other work units and client’s staff.
 
-# **Technical & Functional Competencies**
+## Communication
 
-### **Attention to Communication**
+**Step 1**
+I ensure that information is passed on to others who should be kept informed
+I communicate ideas and information (often technical) in writing to ensure that information and messages are understood and have the desired impact.
+I express myself  clearly in conversations and interactions with others.
+I speak and write English at level B2
+**Step 2**
+I interpret the needs of our customers and peers and respond to their needs.
+I solve conflicts with my peers and clients successfuly and non-violently
+I speak and write English at level C1
 
-The ability to ensure that information is passed on to others who should be kept informed, to express yourself clearly in conversations and interactions with others. 
+**Step 3**
+I represent Vizzuality at high level events and meetings
+I successfuly negotiate with clients and stakeholders to achieve results that help the success of Vizzuality
+I speak and write English at level C2
 
-### **Diagnostic Information Gathering**
 
-The ability to identify the information needed to clarify a situation, seek that information from appropriate sources, and use skillful questioning to draw out the information.
+## Excellence
 
-### **Problem Solving and Prevention**
+**Step 1**
+I have training and skills as defined in my role's specifications for junior level
+I regularly improve my skills receiving training or learning by myself 
+I have basic knowledge of areas not directly related to my area (eg data visualization or climate change when I'm a front end engineer)
+I can work successfuly on scoped problems with little direction and review
+**Step 2**
+I have training and skills as defined in my role's specifications for mid level
+I teach varying levels of skills and tools relted to my area to groups or individuals.
+I demonstrate deep kowledge in other domains such as our clients' problem spaces
+I can deliver substantial features with no direction or need for review
+**Step 3**
+I demonstrate outstanding depth of knowledge, performance and skill in my technical area
+I demonstrate deep kowledge in various domains such as our clients' problem spaces, leadership, resource management etc
+I designin, own, and run entire projects or systems fully autonomously.
 
-The ability to tackle a problem by using a logical, systematic, sequential approach, to anticipate the implications and consequences of situations and evaluate alternatives to achieve quality and results.
+# Advanced Competencies
 
-### **Technical Expertise**
+## Responsibility
+I take an active role and responsibility in company decisions and improvements.
+I diagnose and solve company problems and seize opportunities for it to improve.
+I am trusted by the executive team and my peers to make decisions that affect the whole company
 
-The ability to demonstrate depth of knowledge and skill in my job.
+## Leadership
+I take an active role and responsibility in company decisions and improvements.
+I diagnose and solve company problems and seize opportunities for it to improve.
+I am trusted by the executive team and my peers to make decisions that affect the whole company
+
+## Innovation
+I design and implement products, methods or approaches to track and improve performance, quality, customer satisfaction and impact
+I devise new ways to better achieve our purpose and improve our performance, onboard others, and drive their implementation
+I create new knowledge or business areas that improve our company significantly
+
+
+
+
+
+
