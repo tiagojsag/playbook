@@ -113,54 +113,76 @@ Willing to modify one’s preferred way of doing things, to understand and appre
 ## Communication
 
 **Step 1**
-I ensure that information is passed on to others who should be kept informed
-I communicate ideas and information (often technical) in writing to ensure that information and messages are understood and have the desired impact.
-I express myself  clearly in conversations and interactions with others.
-I speak and write English at level B2
+
+* I ensure that information is passed on to others who should be kept informed.
+
+* I communicate ideas and information (often technical) in writing to ensure that information and messages are understood and have the desired impact.
+
+* I express myself  clearly in conversations and interactions with others. 
+
+* I speak and write English at level B2.
+
 **Step 2**
-I interpret the needs of our customers and peers and respond to their needs.
-I solve conflicts with my peers and clients successfuly and non-violently
-I speak and write English at level C1
+
+* I interpret the needs of our customers and peers and respond to their needs.
+* I solve conflicts with my peers and clients successfuly and non-violently.
+* I speak and write English at level C1.
 
 **Step 3**
-I represent Vizzuality at high level events and meetings
-I successfuly negotiate with clients and stakeholders to achieve results that help the success of Vizzuality
-I speak and write English at level C2
+
+* I represent Vizzuality at high level events and meetings.
+* I successfuly negotiate with clients and stakeholders to achieve results that help the success of Vizzuality.
+* I speak and write English at level C2.
 
 
 ## Excellence
 
 **Step 1**
-I have training and skills as defined in my role's specifications for junior level
-I regularly improve my skills receiving training or learning by myself 
-I have basic knowledge of areas not directly related to my area (eg data visualization or climate change when I'm a front end engineer)
-I can work successfuly on scoped problems with little direction and review
+
+* I have training and skills as defined in my role's specifications for junior level
+* I regularly improve my skills receiving training or learning by myself 
+* I have basic knowledge of areas not directly related to my area (eg data visualization or climate change when I'm a front end engineer)
+* I can work successfuly on scoped problems with little direction and review
+
 **Step 2**
-I have training and skills as defined in my role's specifications for mid level
-I teach varying levels of skills and tools relted to my area to groups or individuals.
-I demonstrate deep kowledge in other domains such as our clients' problem spaces
-I can deliver substantial features with no direction or need for review
+
+* I have training and skills as defined in my role's specifications for mid level.
+
+* I teach varying levels of skills and tools relted to my area to groups or individuals.
+
+* I demonstrate deep kowledge in other domains such as our clients' problem spaces.
+
+* I can deliver substantial features with no direction or need for review.
+
 **Step 3**
-I demonstrate outstanding depth of knowledge, performance and skill in my technical area
-I demonstrate deep kowledge in various domains such as our clients' problem spaces, leadership, resource management etc
-I designin, own, and run entire projects or systems fully autonomously.
+* I demonstrate outstanding depth of knowledge, performance and skill in my technical area.
+
+* I demonstrate deep kowledge in various domains such as our clients' problem spaces, leadership, resource management etc.
+
+* I designin, own, and run entire projects or systems fully autonomously.
 
 # Advanced Competencies
 
 ## Responsibility
-I take an active role and responsibility in company decisions and improvements.
-I diagnose and solve company problems and seize opportunities for it to improve.
-I am trusted by the executive team and my peers to make decisions that affect the whole company
+* I take an active role and responsibility in company decisions and improvements.
+
+* I diagnose and solve company problems and seize opportunities for it to improve.
+
+* I am trusted by the executive team and my peers to make decisions that affect the whole company.
 
 ## Leadership
-I take an active role and responsibility in company decisions and improvements.
-I diagnose and solve company problems and seize opportunities for it to improve.
-I am trusted by the executive team and my peers to make decisions that affect the whole company
+* I manage projects, functional areas, processes or substantial company resources.
+
+* I influence significantly the future direction of the overall business with my actions and decisions.
+
+* I lead team and company efforts, set and monitor goals (often financial) and take full responsibility for the results.
 
 ## Innovation
-I design and implement products, methods or approaches to track and improve performance, quality, customer satisfaction and impact
-I devise new ways to better achieve our purpose and improve our performance, onboard others, and drive their implementation
-I create new knowledge or business areas that improve our company significantly
+* I design and implement products, methods or approaches to track and improve performance, quality, customer satisfaction and impact.
+
+* I devise new ways to better achieve our purpose and improve our performance, onboard others, and drive their implementation.
+
+* I create new knowledge or business areas that improve our company significantly.
 
 
 
