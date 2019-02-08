@@ -38,15 +38,15 @@ Organizing and prioritizing work, by responding to conflicting needs or seeking 
 
 * I support team members in their efforts to achieve job goals (e.g., by providing resources, removing obstacles, acting as a buffer) and stay informed about progress and performance through formal and informal methods.
 
-* I find or create ways to measure and improve performance against goals, provide specific performance feedback, both positive and corrective, as soon as possible after an event, and deal firmly and promptly with performance problems; 
+* I find or create ways to measure and improve performance against goals, provide specific performance feedback, both positive and corrective, as soon as possible after an event, and deal firmly and promptly with performance problems;
 
 * I let people know what is expected of them and when.
 
 ## **Thoroughness**
 
-Ensuring the **quality** of our individual work and projects. 
+Ensuring the **quality** of our individual work and projects.
 
-Demonstrating concern for satisfying customers and users, anticipating their needs and seeking value for them. 
+Demonstrating concern for satisfying customers and users, anticipating their needs and seeking value for them.
 
 Ensuring that one’s own and team’s work are complete, accurate and have the best possible quality.
 
@@ -54,7 +54,7 @@ Ensuring that one’s own and team’s work are complete, accurate and have the 
 
 * I quickly and effectively solve customer problems, let them know I’m willing to work with them to meet their needs and follow up to make sure they are satisfied with what they are getting.
 
-* I make sure my work is correct before delivering it, testing it against the specifications, objectives and quality standards. 
+* I make sure my work is correct before delivering it, testing it against the specifications, objectives and quality standards.
 
 * I prepare for meetings and presentations.
 
@@ -80,7 +80,7 @@ Ensuring that one’s own and team’s work are complete, accurate and have the 
 
 Working cooperatively in a **team**
 
-Supporting the team. Being aware of others’ concerns and communicating this awareness empathetically. 
+Supporting the team. Being aware of others’ concerns and communicating this awareness empathetically.
 
 Understanding the team’s goals and mission, and acting to achieve them.
 
@@ -96,7 +96,7 @@ Willing to modify one’s preferred way of doing things, to understand and appre
 
 **Step 2**
 
-* I share my expertise with others and seek opportunities to work on teams as a means to develop my own experience, and knowledge. 
+* I share my expertise with others and seek opportunities to work on teams as a means to develop my own experience, and knowledge.
 
 * I work for solutions that all team members can support and agree upon.
 
@@ -118,7 +118,7 @@ Willing to modify one’s preferred way of doing things, to understand and appre
 
 * I communicate ideas and information (often technical) in writing to ensure that information and messages are understood and have the desired impact.
 
-* I express myself  clearly in conversations and interactions with others. 
+* I express myself  clearly in conversations and interactions with others.
 
 * I speak and write English at level B2.
 
