@@ -14,8 +14,8 @@ How does it work? It’s pretty simple. Choose a guide, then every 3 months have
 - In one year we will review if it’s working. If it’s not we can revise it or completely change, but everyone must at least try it out for a year.
 
 ### How it will work
-1. Identify a guide to help with your objectives (typically someone with more experience and someone schooled in being a guide) and publish who it is in this google doc
-2. Set quarterly/biannual objectives and results yourself and review with the guide. Making sure they are results driven, measurable etc. [how to write objectives and results]
+1. Identify a guide to help with your objectives (typically someone with more experience and someone schooled in being a guide) and publish who it is in [this google doc](https://docs.google.com/spreadsheets/d/1urS7K81ZPrThY9foclGUa5XxMKGhu7E2AcwX1x1TkGQ/edit#gid=966584708)
+2. Set quarterly/biannual objectives and results yourself and review with the guide. Making sure they are results driven, measurable etc. see below for details in how to write objectives.
 3. Once objectives and results have been set, publish publicly by default unless there is a strong reason not to.
 4. After each quarter,
 	* On your own, score each result 0-1 then
