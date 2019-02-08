@@ -109,6 +109,11 @@ The collaborators don't have the responsability to perform any of the steps in t
 ### Steps
 > While it's very important to have empathy for the candidates throughout the process; we mustn't forget that moving a candidate forward is time consuming and has a cost, both for the company, and the candidate. Therefore it's vital to reject candidates as early in the process as possible if they are not a fit.
 
+#### New application
+When people submit a new application we should send an acknowledgement email to confirm that we correctly received their information and that their process has started.
+
+If the hiring process is paused (i.e. during holidays), the acknowledgement email should be updated to reflect that, and provide an estimated date for resuming it.
+
 #### First filter
 A first screening can be done at this point where any of the participants can suggest to discard a candidate as “not a fit”, “not qualified” or “over qualified”. The decision to discard a candidate should be made by consent, meaning if there’s no principled objections the candidate can be discarded.
 
