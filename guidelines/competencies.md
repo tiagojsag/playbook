@@ -38,14 +38,6 @@ Organizing and prioritizing work, by responding to conflicting needs or seeking 
 
 * I ensure that the individuals and the team have clear (challenging but achievable) goals and responsibilities
 
-* I support team members in their efforts to achieve job goals (e.g., by providing resources, removing obstacles, acting as a buffer) and stay informed about progress and performance through formal and informal methods.
-
-* I find or create ways to measure and improve performance against goals, provide specific performance feedback, both positive and corrective, as soon as possible after an event, and deal firmly and promptly with performance problems;
-
-* I let people know what is expected of them and when.
-
-* I ensure that the individuals and the team have clear (challenging but achievable) goals and responsibilities
-
 * I support team members in their efforts to achieve job goals (e.g., by providing resources, removing obstacles) and stay informed about progress and performance.
 
 * I find or create ways to measure and improve performance against goals, provide specific performance feedback, both positive and corrective, and deal firmly and promptly with performance problems.
