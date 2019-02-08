@@ -110,7 +110,16 @@ Willing to modify one’s preferred way of doing things, to understand and appre
 
 * I promote cooperation with other work units and client’s staff.
 
-## Communication
+## **Communication**
+
+Being able to understand a project, and any assigned tasks.
+
+Communicating challenges, blockers and choices made.
+
+Being able to explain complex concepts in english, in both spoken and written form.
+
+Understanding others points of views and finding ways to come to a positive outcome even in the face of complicated problems and differences of opinion.
+
 
 **Step 1**
 
