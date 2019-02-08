@@ -189,13 +189,30 @@ Knowing that our work, our skills and our processes can also be improved.
 # Advanced Competencies
 
 ## Responsibility
+
+Understanding that actions have consequences, and we should work to be proud of all of them.
+
+Taking credit where credit is due, and assuming mistakes when they happen.
+
+Knowing that only by taking responsibility you can make the change you seek.
+
+
+
 * I take an active role and responsibility in company decisions and improvements.
 
 * I diagnose and solve company problems and seize opportunities for it to improve.
 
 * I am trusted by the executive team and my peers to make decisions that affect the whole company.
 
-## Leadership
+## **Leadership**
+
+Making decisions, knowing when to delegate, and trusting in others.
+
+Looking beyond the now, and into the future.
+
+Thinking of others, of the company and of the planet.
+
+
 * I manage projects, functional areas, processes or substantial company resources.
 
 * I influence significantly the future direction of the overall business with my actions and decisions.
