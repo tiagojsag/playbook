@@ -219,7 +219,13 @@ Thinking of others, of the company and of the planet.
 
 * I lead team and company efforts, set and monitor goals (often financial) and take full responsibility for the results.
 
-## Innovation
+## **Innovation**
+
+Understand the standards the best practices and how to go beyond them.
+
+Work to achieve the most impact with the most useful solutions.
+
+
 * I design and implement products, methods or approaches to track and improve performance, quality, customer satisfaction and impact.
 
 * I devise new ways to better achieve our purpose and improve our performance, onboard others, and drive their implementation.
