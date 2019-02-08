@@ -125,13 +125,17 @@ Willing to modify one’s preferred way of doing things, to understand and appre
 **Step 2**
 
 * I interpret the needs of our customers and peers and respond to their needs.
+
 * I solve conflicts with my peers and clients successfuly and non-violently.
+
 * I speak and write English at level C1.
 
 **Step 3**
 
 * I represent Vizzuality at high level events and meetings.
+
 * I successfuly negotiate with clients and stakeholders to achieve results that help the success of Vizzuality.
+
 * I speak and write English at level C2.
 
 
@@ -139,9 +143,12 @@ Willing to modify one’s preferred way of doing things, to understand and appre
 
 **Step 1**
 
-* I have training and skills as defined in my role's specifications for junior level
-* I regularly improve my skills receiving training or learning by myself 
-* I have basic knowledge of areas not directly related to my area (eg data visualization or climate change when I'm a front end engineer)
+* I have training and skills as defined in my role's specifications for junior level.
+
+* I regularly improve my skills receiving training or learning by myself.
+
+* I have basic knowledge of areas not directly related to my area (eg data visualization or climate change when I'm a front end engineer).
+
 * I can work successfuly on scoped problems with little direction and review
 
 **Step 2**
