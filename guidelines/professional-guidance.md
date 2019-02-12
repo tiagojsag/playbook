@@ -128,7 +128,7 @@ It may seem like language trickery, and in some cases, it kind of is. However th
 * Is it difficult but achievable within 3 months?
 * Make sure it’s not a task, rather a result.
 * Can you look at it in 3 months and understand what is means.
-* Is it legible, Could Craig understand it? Could your mum understand it?
+* Is it legible, Could Craig understand it? Could a non-expert understand it?
 
 
 
