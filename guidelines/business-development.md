@@ -9,12 +9,13 @@ The BD team uses a couple of criteria to decide whether to go forward with a pro
 - Chance of improving our business. Could this project lead to long-term collaboration with a particular partner, or open the door to a new topic we don't work on so much? 
 - Budget vs features. Does the budget feel sufficient to complete all the work specified? 
 - Timeline. Do we have enough time to deliver this in an innovative way, with time for iteration, reflection, feedback and improvement? 
+- Capacity? Will we have enough staff available to work on this project? and with the right skills? 
 
 ## Writing Proposals
 
-First of all, make sure you talk to Bernat, Craig or Jamie about the proposal you are writing, so they can add it to the pipeline. Post something in the #business-dev channel for the proposal team to talk about.
+First of all, if you hear about an opportunity make sure you talk to Bernat or Maria, so they can add it to the pipeline. Post something in the #business-dev channel for the proposal team to talk about.
 
-Then throw all the docs you have in a new folder [in our proposals folder on Google Drive](https://drive.google.com/drive/u/0/folders/0Bz9ghrEmlkpbS1p5RkhqdDJIaWc). Ask Jamie, Craig or David G. for permission if you don't have it. 
+Then throw all the docs you have in a new folder [in our proposals folder on Google Drive](https://drive.google.com/drive/u/0/folders/0Bz9ghrEmlkpbS1p5RkhqdDJIaWc). Ask Bernat or Maria for permission if you don't have it. 
 
 Take the RFP and create a short overview document, [following this template](https://docs.google.com/document/d/1pyWsqQpKzPoUpD3IiHe3ZEao2ASmh6aUEnfxhquL4aU/edit). Then assemble a team to write it, using #proposals in Slack to coordinate. 
 
