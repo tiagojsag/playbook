@@ -93,11 +93,11 @@ Nothing else to do here apart from maybe prompt the client if it’s taking a wh
 
 ### Win percentages
 Each card has a win percentage. These should evolve to reflect 1) how likely we are to actually win it and 2) the range of error around a budget. Each column has a default win % (as below) reflecting our experience so far. You don’t have to worry about win % until you move a card to proposal sent. Use this guide to work out what % you think your card should get. 
-100% - only once we get a contract
-90% - we’ve been given a written yes
-70% - client has indicated in preliminary talks that they want to work with us, and we’re just going through the motions to get the project started
-50% - we’re quite confident we could win this
-40% - the default for cards in proposals sent
-30% - there’s a lot of competition and it’s well out of our normal zone - not likely to get it
-20% - this is a reallllyyyy speculative proposal
-1% - this is a really big ($millions) proposal and there’s hundreds of competitors
+- 100% - only once we get a contract
+- 90% - we’ve been given a written yes
+- 70% - client has indicated in preliminary talks that they want to work with us, and we’re just going through the motions to get the project started
+- 50% - we’re quite confident we could win this
+- 40% - the default for cards in proposals sent
+- 30% - there’s a lot of competition and it’s well out of our normal zone - not likely to get it
+- 20% - this is a reallllyyyy speculative proposal
+- 1% - this is a really big ($millions) proposal and there’s hundreds of competitors
