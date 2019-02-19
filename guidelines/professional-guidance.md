@@ -2,6 +2,18 @@
 
 _The purpose of this guideline is to make sure there is a way for Vizzuality people to receive support (guidance) in their professional growth._
 
+## Contents
+
+- [Principles](#principles) 
+- [How it will work](#how-it-will-work)
+- [Transition from Reviews to Guidance](transition-from-reviews-to-guidance)
+- [Other details](other-details.)
+- [How objectives and results work and could be written](how-objectives-and-results-work-and-could-be-written.)
+- [Checklist for your Objectives and Results](checklist-for-your-objectives-and-results.)
+
+
+
+
 How does it work? It’s pretty simple. Choose a guide, then every 3 months have a conversation to define and review your objectives and results. This is an opportunity to celebrate what you’ve achieved and also think carefully about what comes next. Repeat forever.
 
 ### Principles
