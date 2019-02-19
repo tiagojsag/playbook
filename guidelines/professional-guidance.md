@@ -7,9 +7,9 @@ _The purpose of this guideline is to make sure there is a way for Vizzuality peo
 - [Principles](#principles) 
 - [How it will work](#how-it-will-work)
 - [Transition from Reviews to Guidance](transition-from-reviews-to-guidance)
-- [Other details](other-details.)
-- [How objectives and results work and could be written](how-objectives-and-results-work-and-could-be-written.)
-- [Checklist for your Objectives and Results](checklist-for-your-objectives-and-results.)
+- [Other details](other-details)
+- [How objectives and results work and could be written](how-objectives-and-results-work-and-could-be-written)
+- [Checklist for your Objectives and Results](checklist-for-your-objectives-and-results)
 
 
 
@@ -43,7 +43,7 @@ How does it work? It’s pretty simple. Choose a guide, then every 3 months have
 ### Transition from Reviews to Guidance
 Although this guidance system will replace the current review process, it’s important to make sure the reviews are not forgotten and the knowledge in your current reviewers are not ignored. Therefore, for the first round of guidance meetings, it is recommended that your previous reviewers are present. After the first meeting, the current reviewer will step back and your guide will continue. In some cases it might actually be the same person, in which case the main difference will be the way in which guidance is carried out.
 
-### Other details.
+### Other details
 * For guides, we will offer mentoring and training in how to guide effectively
 * For everyone, we will offer guidance on how to write objectives and results and get the most out of the process
 * Most of the time a guide will be a Vizzuality staff member, if there isn’t someone  suitable internally (typically for specialist knowledge) we can look for an external guide.
@@ -61,7 +61,7 @@ Although this guidance system will replace the current review process, it’s im
 
 
 
-## How objectives and results work and could be written.
+## How objectives and results work and could be written
 
 Each quarter, before meeting with your guide, you will write down what you want in your professional life in the form of objective and results. Why this way? It’s a format used widely across many organisations that allows you to capture what you want to aspire to with some stepping stone results along the way. They’re often referred to as OKRs.
 
@@ -125,7 +125,7 @@ Notice a few things in the results. All have a time frame. All can be scored if 
 
 It may seem like language trickery, and in some cases, it kind of is. However the idea of making it results-focused is to make sure you have multiple ways to achieve an output. How you do it is up to you. What you plan to create is the thing that is fixed. In some cases it might require multiple people to achieve the result. That is fine.
 
-### Checklist for your Objectives and Results.
+### Checklist for your Objectives and Results
 
 #### Objectives
 * Does the objective have direction and/or action (Increase, Decrease, - Faster, Slower, Reduce, Deliver etc)
