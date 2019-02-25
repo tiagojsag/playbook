@@ -12,6 +12,7 @@
 - [x] [Running large events](how-to-run-big-events.md)
 - [x] [Security](security.md)
 - [x] [Writing Proposals](writing-proposals.md)
+- [x] [Visiting other offices](visiting-other-offices.md)
 
 
 To learn how to create or amend guidelines read [this](https://github.com/Vizzuality/playbook/blob/master/README.md)
