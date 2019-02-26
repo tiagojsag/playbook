@@ -2,7 +2,7 @@
 
 ## Junior position 
 
-* Solid technical foundation in computer science/engineering, preferably trough academic degree
+* Solid technical foundation in computer science/engineering, preferably with an academic degree
 
 * Proficient in HTML5 and CSS3
 
@@ -22,7 +22,7 @@
 
 * Uses and understands Restful API concepts
 
-* Good knowledge of Leaflet and Google maps API
+* Good knowledge of Leaflet and Google Maps API
 
 * Good use of common mapping tools and concepts: Carto, Mapbox, Google Maps, OpenStreetMaps
 
@@ -36,9 +36,9 @@
 
 * Basic understanding of statistical concepts (means, modes, percentiles…)
 
-* Basic use and configuration CI tools (travis, Jenkins)??
+* Basic use and configuration of CI tools (travis, Jenkins)??
 
-* Familiarity wit testing techniques and test types. Can write unit tests
+* Familiarity with testing techniques and test types. Can write unit tests
 
 * Familiarity with front-end build tools, such as Webpack, Gulp and Rollup
 
