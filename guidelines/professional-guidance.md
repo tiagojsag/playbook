@@ -6,7 +6,7 @@ _The purpose of this guideline is to make sure there is a way for Vizzuality peo
 
 - [Principles](#principles) 
 - [How it will work](#how-it-will-work)
-- [Transition from Reviews to Guidance](#transition-from-reviews-to-guidance)
+- [Working with the existing feedback review process](#working-with-the existing-feedback-review-process)
 - [Other details](#other-details)
 - [How objectives and results work and could be written](#how-objectives-and-results-work-and-could-be-written)
 - [Checklist for your Objectives and Results](#checklist-for-your-objectives-and-results)
@@ -40,26 +40,18 @@ How does it work? It’s pretty simple. Choose a guide, then every 3 months have
 	* Regularly have one-to-ones with your guide and/or peers.
 
 
-### Transition from Reviews to Guidance
-Although this guidance system will replace the current review process, it’s important to make sure the reviews are not forgotten and the knowledge in your current reviewers are not ignored. Therefore, for the first round of guidance meetings, it is recommended that your previous reviewers are present. After the first meeting, the current reviewer will step back and your guide will continue. In some cases it might actually be the same person, in which case the main difference will be the way in which guidance is carried out.
+### Working with the existing feedback review process
+This is tbd pending a new feedback process. This section will be updated once that is agreed. In the interim:
+
+If you have a working review process in place, carry on until the new feedback guidelines are complete. There is one important part that will change. **Objectives (sometimes known as goals in the review process) should only be written and shared as part of the guidance process.** This is to avoid confusion and duplication of work. Of course you can use what you have learnt in the feedback review to help inform your objectives for the guidance.
+
+If you are happy to use the guidance process in place of the review process, that is okay too. If you do that, it is advised 
+you make sure the reviews are not forgotten and the knowledge in your current reviewers are not ignored. Therefore, for the first round of guidance meetings, it is recommended that your previous reviewers are there too. After the first meeting, the current reviewer will step back and your guide will continue. In some cases it might actually be the same person, in which case the main difference will be the way in which guidance is carried out.
 
 ### Other details
 * For guides, we will offer mentoring and training in how to guide effectively
 * For everyone, we will offer guidance on how to write objectives and results and get the most out of the process
 * Most of the time a guide will be a Vizzuality staff member, if there isn’t someone  suitable internally (typically for specialist knowledge) we can look for an external guide.
-
-#### Things still to write/do:
-
-* A training programme for the guides.
-* Identify the guides.
-* Build this into the HR position
-* When to change guides
-* Create a list of external guides we can call upon. (Note this is different to training)
-* Model the cost of external guides.
-* Define and test where to publish the goals.
-* Write Salary and bonuses guidance.
-
-
 
 ## How objectives and results work and could be written
 
@@ -142,10 +134,13 @@ It may seem like language trickery, and in some cases, it kind of is. However th
 * Can you look at it in 3 months and understand what is means.
 * Is it legible, Could Craig understand it? Could a non-expert understand it?
 
+#### Things still to write/do:
 
-
-
-
-------- future work -------
-
-Can we use successful results as a way to show the best path.
+* A training programme for the guides.
+* Identify the guides.
+* Build this into the HR position
+* When to change guides
+* Create a list of external guides we can call upon. (Note this is different to training)
+* Model the cost of external guides.
+* Define and test where to publish the goals.
+* Write Salary and bonuses guidance.
