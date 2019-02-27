@@ -6,7 +6,7 @@ _The purpose of this guideline is to make sure there is a way for Vizzuality peo
 
 - [Principles](#principles) 
 - [How it will work](#how-it-will-work)
-- [Working with the existing feedback review process](#working-with-the existing-feedback-review-process)
+- [Working with the existing feedback review process](#working-with-the-existing-feedback-review-process)
 - [Other details](#other-details)
 - [How objectives and results work and could be written](#how-objectives-and-results-work-and-could-be-written)
 - [Checklist for your Objectives and Results](#checklist-for-your-objectives-and-results)
