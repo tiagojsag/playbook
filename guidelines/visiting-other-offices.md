@@ -6,14 +6,14 @@ This guideline describes and formalises staff ability to move around and visit o
 
 ## Onboarding
 
-When we hire someone in the Porto or Cambridge office, the starter's buddy should discuss and assess with the members of the team with whom they will work if it would be useful to arrange a trip to the main office in Madrid. Typical goals of this trip are for the new starter to meet the wider team they will be working with, to introduce to the way we work, and to start building that trust and shared understanding that will make our work go quickly and efficiently. The accommodation and travel is paid for by the company in this case.
+When we hire someone in the Porto or Cambridge office, the starter's buddy should discuss and assess with the members of the team with whom they will work if it would be useful to arrange a trip to the main office in Madrid. Typical goals of this trip are for the new starter to meet the wider team they will be working with, to introduce them to the way we work, and to start building that trust and shared understanding that will make our work go quickly and efficiently. The accommodation and travel is paid for by the company in this case.
 
 If you are a remote worker starting out at the company, we might ask that you spend your first few months working from one of our offices for the same reasons. When this happens the company pays you a relocation bonus for the duration of your stay.
 [note: after consenmentisation, we’ll need to update the onboarding guideline to include this]
 
 ## Vizzcamp
 
-Every year we will have a two-three day retreat: a time for us all to get together and have some time to talk about the future of Vizzuality. This usually involves traveling to a location just outside Madrid and staying there for 1-2 nights.
+Every year we will have a two-three day retreat: a time for us all to get together and have some time to talk about the future of Vizzuality. This usually involves traveling to a location just outside Madrid and staying there for 1-2 nights. This is all covered by Vizzulity. 
 
 ## Christmas Party.
 
