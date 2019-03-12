@@ -8,6 +8,7 @@
 - [x] [Design system](design-system.md)
 - [x] [Getting Started at Vizzuality](how-to-get-started-at-vizzuality.md)
 - [x] [Hiring](hiring.md)
+- [x] [Professional Guidance](professional-guidance.md)
 - [x] [Remote work](remote-work.md)
 - [x] [Running large events](how-to-run-big-events.md)
 - [x] [Security](security.md)
