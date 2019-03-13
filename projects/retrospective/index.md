@@ -31,6 +31,8 @@ Prepare the session in advance. Look for a quiet and private space. Be sure you 
 
 Ask someone to be the facilitator. That person will make sure everybody talks and express their ideas. Also, they will take notes during the session and will develop the conclusions document. The facilitator can be someone in the team or a special guest but in any case, that person will need background information about the project to better follow the conversation. Ideally they would not have worked directly on the project, so they can provide an outside perspective.
 
+For larger groups, consider to ask someone else to take notes besides the facilitator. 
+
 Make sure everybody knows the subject and the objectives of the session. You can send an email beforehand and always go through them at the beginning of the session. 
 
 Make sure to be positive in communicating. It’s about sharing what we could improve next time, in positive way we can learn from. It is not about blaming anyone or going into negative discussions. The goal is to improve, not to annoy people.
@@ -49,25 +51,65 @@ Tell the whole team what happened so we can all learn from the experience
 
 ## The classic retrospective... 
 
-1. The introduction
-Present the session. Welcome people, expose the subject and the objectives of the session so they are clear to everybody.  
+# The setup
+This is an example of how to run the restrospective that has work in the past. 
 
-2. Post-its: three things that went well, three things to improve
-Provide the team two different colors of post-its. One for good things, another for things to improve. Tip: Having two different colors and freedom to fill as much as they can of each color will give you an idea of the mood. 
-Give them markers to write. That way, they are able to write short sentences and we can write the post-its when they will be in the wall. 
-Give them around 5 minutes to think and write their thoughts. 
-After five minutes ask them to stop. 
-Varianza: You can either limit the post-its to fill in or the time. But limit one of those because if you don’t, you will end up with too many post-its and no time to go over all of them. 
-Varianza: If you don’t want to waste post-its you can make a trello board. But in this case we will need everybody to have a computer and a trello account. 
+- Invite everyone involved in the project to take part in the retrospective;
+- Invite someone that was not involved in the project to coordinate the retrospective;
+- If the discussion group is larger than 6 people, think about inviting someone to come as lead note-taker.
+- Book a room to do the retrospective for between 1 hour to 2 hours depending on the size of the subject at hand;
+- You might want to get some snacks so people can eat while they chat (makes for a more relaxed environment);
+- If you are the coordinator, ask everyone to think ahead about the focus of the retrospective and add their ideas to a shared doc (you might want to use this [template](https://docs.google.com/document/d/14CqpvNFVATPjhLoj--Ognf902Fr6GaKZxDQE4pEQ_yU)) before the Retrospective meeting. Set a limit of ~160 characters per comment to force people to express one idea at a time. Take into account those ideas will be presented later during the meeting and they can explain further then.
 
-3. Presentation.
-Where one by one, people share their ideas and stick the post-its in a wall. Now, one by one everybody will present their post-its and explain them if needed. Be sure everybody has the time to talk. 
+1- Think of up to three things that that we could&#39;ve done better to avoid each of them. Add them to the shared doc
 
-4. Agreement. 
-Where all the group discuss the ideas and agrees on point to improve or to keep for the next one. Potentially assign responsibilities to people. 
+2- Think  of up to three things that went well and how we could keep them the next time. Add them to the shared doc
 
-5. Conclusions. 
-After the session, the facilitator and the project manager will summarize all the outcomes of the session and highlight the objectives. Share with the rest of the team. 
+3- Think about something that you, personally, could&#39;ve done better to avoid unpleasant situations. Add them to the shared doc.
+
+- If you set up personal Pledges at the begginign of the project, ask team members to think about how it went. 
+
+- People can keep their comments anonymous if you prefer.
+
+- The coordinator should arrange all the comments and create a presentation to be followed during the meeting. It is useful to arrange them by topics as well. (You can use a Trello Board)
+
+# During the retrospective
+
+1. Welcome everyone;
+2. Identify what the retrospective is about and what the goal of the meeting is;
+3. Identify the facilitator of the retrospective and let them have the floor;
+4. Identify the note taker if any.
+5. To include everybody in the conversation, you can start by having a quick round asking each team member &quot;How do you feel today?&quot;
+6. Start the discussion following the comments previously shared.
+7. Drive the conversation to identify actions to avoid the same issues in the future.
+8. If you notice some people are not speaking much ask open questions to the quieter ones to make sure everyone has a chance to speak. Where people are speaking too much, mention that (&quot;I&#39;d like to hear from some others in the room&quot;)
+9. Action points to tackle the priorities are identified;
+10. Thank you and see you next time!
+
+# After the Retrospective
+
+*Distill actions*
+
+After the meeting, coordinator will take all the notes and create a document with clear actions that will help us to improve our processes.
+
+Think about naming a responsible person for each action and a potential deadline if that makes sense.
+
+*Pledges*
+
+Ask each team member to create a &quot;Pledge&quot; for themselves and add them to Bamboo as objective for the quarter. This way, we ensure individual commitment is tracked.
+
+*Long term review*
+
+_[This is a Work In Progress still]_
+
+Every year, a couple of volunteers will review all those documents (_create a folder and link it here_) to see if there is any evolution. Where we see common issues that need improving, or some &quot;things to keep&quot; that should be shared, there&#39;ll be a all-company presentation during all-hands to start a discussion, and a working group can form to amend or improve relevant guidelines.
+
+# Very important things
+
+- Make sure to be positive in communicating. It&#39;s not about not sharing what went wrong, is not blaming anyone and not going into negative discussions. The goal is to improve, not to get people annoyed;
+- Make sure to reach out for introverts, not everyone is comfortable speaking to groups, so use your means to involve them, by asking questions and putting them at ease; Ignoring them is not a good idea;
+- Make sure to keep to the time and organized. Set a &quot;schedule&quot; for the retrospective to ensure it moves forward;
+- Make sure the action points are clear and achievable so that they can be done!
 
 # Final Thoughts
 As we said before, retrospectives can be run in many different ways, here you have some links for inspiration: 
@@ -78,3 +120,8 @@ A couple of things we thought in our last retrospective (Half Earth):
 - Make people ask themselves at least one thing they’ve learnt!
 - Linked to this idea that everyone committed in the Kick-off meeting they were going to learn while working on this project, it would be nice to see the progress and let them talk about it.
 - It would be nice to ask people to assess and express one thing they could have done better in this project that will probably be turned into a commitment for the next project they start working on. 
+
+Another couple of  things we thought in our last perspective (Worldbank):
+- Just one hour might not be enough if the group is more than 4 people.
+- Ensure everybody share their thoughts.
+- It was a good idea to ask people to share their comments beforehand and organize them in thematic areas.
