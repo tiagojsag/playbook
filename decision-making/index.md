@@ -103,6 +103,7 @@ There are broadly 3 paths a decision can go through:
 > IN SHORT: If there is a sufficient guideline that covers your proposal, you can make the decision right away.
 
 **sufficient ≠ specific**
+
 **can ≠ have to**
 
 The easiest path is where a decision can be taken simply based on existing guidelines. This path will help reduce the current decision overload.
