@@ -98,6 +98,10 @@ Think about naming a responsible person for each action and a potential deadline
 
 Ask each team member to create a &quot;Pledge&quot; for themselves and add them to Bamboo as objective for the quarter. This way, we ensure individual commitment is tracked.
 
+*Guidelines review*
+
+We might detect areas of improvement of our guidelines. If so, be sure you name a responsible to update them. 
+
 *Long term review*
 
 _[This is a Work In Progress still]_
