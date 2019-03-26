@@ -67,7 +67,7 @@ This is an example of how to run the restrospective that has work in the past.
 
 3- Think about something that you, personally, could&#39;ve done better to avoid unpleasant situations. Add them to the shared doc.
 
-- If you set up personal Pledges at the begginign of the project, ask team members to think about how it went. 
+- If you set up personal Pledges at the beginning of the project, ask team members to think about how it went. 
 
 - People can keep their comments anonymous if you prefer.
 
