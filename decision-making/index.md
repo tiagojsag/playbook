@@ -67,7 +67,8 @@ Many of these decisions will be covered by organisation guidelines, for example:
     - Frontend
     - Business development
     - Operations
-Many decisions here will be covered by functional domain guidelines, for example:
+  
+  Many decisions here will be covered by functional domain guidelines, for example:
     - To establish communication channel with client - external communication
     - To start working on a project - project kickstarting
 - Project team
