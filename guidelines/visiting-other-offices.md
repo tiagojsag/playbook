@@ -13,7 +13,7 @@ If you are a remote worker starting out at the company, we might ask that you sp
 
 ## Vizzcamp
 
-Every year we will have a two-three day retreat: a time for us all to get together and have some time to talk about the future of Vizzuality. This usually involves traveling to a location just outside Madrid and staying there for 1-2 nights. This is all covered by Vizzulity. 
+Every year we will have a two-three day retreat: a time for us all to get together and have some time to talk about the future of Vizzuality. This usually involves traveling to a location just outside Madrid and staying there for 1-2 nights. This is all covered by Vizzuality.
 
 ## Christmas Party.
 
