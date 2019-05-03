@@ -18,7 +18,7 @@ Therefore, in production teams, the reviewer should be in touch with both the pr
 
 A priori, for the production teams, it will be a Project Manager’s task to carry on with these reviews; however, they can delegate or share this task with other team members that also have a broad perspective, always making sure it is properly accomplished. 
 
-When it comes to other teams like operations or BD, it may be done by a different role that has a broad picture of how that person is following their objectives. (tbd)
+When it comes to other teams like operations, BD, or other transversal profiles like user research, it may be done by a different role that has a broad picture of how that person is following their objectives. (tbd)
 
 For avoiding confusion inside this document, I’m calling that role the Feedback Manager. 
 
