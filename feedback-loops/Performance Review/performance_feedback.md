@@ -1,17 +1,17 @@
-#Performance feedback
+# Performance feedback
 
-##Intro
+## Intro
 
 In a perfect future, our feedback culture will be as strong as we won’t need a formal process for team members to exchange feedback that will help everybody to grow as a professional and as a person within the team. 
 Meanwhile, we think it is interesting to help this culture to settle by establishing a formal process where everybody, periodically, gives and receives feedback from peers and we have the opportunity to help every team member to know and improve their performance.
 
-##What is this about?
+## What is this about?
 
 Performance feedback is a process where we will be reviewing the day to day achievement of the different team members with the main objective of helping that person to succeed by reinforcing their strengths and communicating what they could improve in relation with performance and behavioural aspects. (Am I delivering as expected? Are my peers happy with me? Could I do something better to help my peers in their day to day? Do I communicate well? Should I be more proactive?)
 
 At the same time, this is an opportunity for team members' needs to be heard by their colleagues and have a sense about how people are doing within the team. (Are they feeling ok with the team? Do they feel there is someone they can reach out when they need help? Do they have objectives for growing?, …)
 
-##Who should run these reviews?
+## Who should run these reviews?
 This is a review of the daily life of the team. Therefore, it is interesting that whoever conducts this process is someone in deep contact with the person’s daily context and the workings of the team as a whole so they can easily get the information to give feedback and set performance or behavioural goals. 
 
 Therefore, in production teams, the reviewer should be in touch with both the production process, the delivered product, and all the interrelations.
@@ -22,7 +22,7 @@ When it comes to other teams like operations or BD, it may be done by a differen
 
 For avoiding confusion inside this document, I’m calling that role the Feedback Manager. 
 
-##How does this work?
+## How does this work?
 
 This is an continuous process that aims to follow each individual in their achievements. Therefore, it can be tailored to each team member’s needs. 
 
@@ -41,7 +41,7 @@ After the conversation, the reviewed will digest the information and add the con
 
 The objective of this process is to share feedback. If there are clear actions or objectives, those can be added to the professional guidance. 
 
-##How does this work with the current Professional Guidance?
+## How does this work with the current Professional Guidance?
 
 They are both compatible and complementary. 
 
@@ -51,7 +51,7 @@ Performance feedback could inform and orientate the professional goals. For inst
 
 Performance feedback will have the format of a private conversation that will be revealed only if the reviewee decides to share this information. 
 
-##How does this work with the current Core Competencies?
+## How does this work with the current Core Competencies?
 
 Check here Vizzuality [core competencies](https://docs.google.com/document/d/1ng6H8mzKMt98nUkeJofLgemHIoW2o2xPqZKaKq1Tz1Q/edit)
 The Core Competencies at Vizzuality must be the frame for the Performance Feedback as we are evaluating how that person is evolving within the team and in their current role. 
