@@ -20,7 +20,7 @@ A priori, for the production teams, it will be a Project Manager’s task to car
 
 When it comes to other teams like operations, BD, or other transversal profiles like user research, it may be done by a different role that has a broad picture of how that person is following their objectives. (tbd)
 
-For avoiding confusion inside this document, I’m calling that role the Feedback Manager. 
+For avoiding confusion inside this document, I’m calling that role the Feedback Reviewer. 
 
 ## How does this work?
 
@@ -28,12 +28,12 @@ This is an continuous process that aims to follow each individual in their achie
 
 The suggestion is for everybody to have at least one formal review every six months. This interval can make sense for more senior staff and people that are more established in their roles but for more junior profiles, new team members, people that recently acquired new competencies or when we are trying to fix a specific performance or behaviour issue, it might make sense to have more frequent check-ins. 
 
-In these last cases, the Feedback Manager will establish the frequency of the reviews and alternative methods (informal reviews, project retrospectives, peer feedback sessions, … ) to be sure everybody has the support they need. 
+In these last cases, the Feedback Reviewer will establish the frequency of the reviews and alternative methods (informal reviews, project retrospectives, peer feedback sessions, … ) to be sure everybody has the support they need. 
 
 **Formal review:**
-For the formal review, each team member will have a one-on-one conversation with their Feedback Manager. 
+For the formal review, each team member will have a one-on-one conversation with their Feedback Reviewer. 
 
-Before that conversation, the Feedback Manager will request feedback for that person from different peers through Bamboo to inform the conversation. If needed, the Feedback Manager can also have brief conversations with the peers providing feedback to understand the context. 
+Before that conversation, the Feedback Reviewer will request feedback for that person from different peers through Bamboo to inform the conversation. If needed, the Feedback Reviewer can also have brief conversations with the peers providing feedback to understand the context. 
 
 Don’t forget to review past meetings notes to track progress. 
 
