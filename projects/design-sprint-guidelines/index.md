@@ -48,6 +48,10 @@ If you do decide to run a sprint, look over the following pages for advice about
 
 [Preparing a sprint](preparing-a-sprint.md) - Must Read before you go any further
 
+**Remember to think about Remote People**. 
+Identify which sessions (if they aren't coming to all) remote people need to call into.
+Ahead of time, set up call-in information so they can contribute and make adequate room for it.
+
 ## Activities to complete in most sprints**
 
 [Introductions](introductions.md)
