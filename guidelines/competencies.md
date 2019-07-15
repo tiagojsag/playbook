@@ -221,7 +221,7 @@ Thinking of others, of the company and of the planet.
 
 * I lead team and company efforts, set and monitor goals (often financial) and take full responsibility for the results.
 
-## **Innovation**
+## **Initiative**
 
 Understand the standards the best practices and how to go beyond them.
 
