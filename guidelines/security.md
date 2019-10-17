@@ -91,7 +91,12 @@ In general, any other types of sensitive info used in projects or services, like
 
 ## Github
 
-If you use git and github, this section is for you. If you don't, move along, here be dragons.
+If you use git and Github, this section is for you. If you don't, move along, here be dragons.
+
+
+### Authentication
+
+Like in all services, be sure to use a strong password. 2 factor authentication is a requirement - if you don't have it enabled, you won't be able to join the Vizzuality Github organization, and thus will not be able to push code changes. Refer to [this link](https://help.github.com/en/articles/configuring-two-factor-authentication) for instructions on how to do so.
 
 ### Transfer protocol
 
