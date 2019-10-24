@@ -4,7 +4,7 @@
 
 This is a proposal for a decision making system at Vizzuality. The goal of the proposed changes is to empower individuals to make decisions, because we trust people will make the best decisions.
 
-We arrived at it by reviewing our current decision making processes and identifying their weaknesses. We researched systems used in other flat organisations to design our own.
+We arrived at it by reviewing our current decision making processes and identifying their weaknesses. We researched systems used in other organisations to design our own.
 
 ## General criteria
 If you have a decision that affects other people and has a risk attached to it you need to start the decision process by:
