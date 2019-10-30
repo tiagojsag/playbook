@@ -1,4 +1,4 @@
-# How to allocate cloud resources
+# How to allocate and manage cloud resources
 
 This guideline covers the steps you should take should you need a cloud resource, like a server to host a project, a file bucket, a Carto/(something else) account, etc.
 
@@ -45,3 +45,8 @@ For some projects, we are our own client (for example, grant-based projects), so
 - For the same reason, clearly identify if a resource is a staging resource, and can be deleted once the development phase is over.
 - On the project documentation, clearly identify these dependencies on external services, should we need to make adjustments in the future (ie: renew api keys, migrate accounts, account spring cleaning, etc). 
 - Talk with the PM so the cost of these resources can be accounted for.
+
+
+### How to handle credentials
+
+Once resources are provisioned, you should save any and all credentials to Lastpass, and share them with the team members that may need access to them. Do not keep these on your Lastpass account only, as this exposes the team to [the bus factor](https://en.wikipedia.org/wiki/Bus_factor). Additionally, some credentials are only available when created, so if you don't save them straight away, you may need to regenerate them, which means updating servers, etc etc.
