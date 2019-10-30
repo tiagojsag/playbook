@@ -33,6 +33,8 @@ Given that setting up these resources can be a quite technical process, we can h
 - Joining them on a call, screenshare, and guide them step by step if they prefer to do these steps themselves.
 - Provide links or other resources covering any post-delivery maintenance tasks they may need to carry out (or advise them to hire external help, should you think that's the best option for them).
 
+During this, we should use and recommend to clients our [security best practices](https://github.com/Vizzuality/playbook/blob/master/guidelines/security.md) when it comes to picking passwords, sharing and storing them, etc. 
+
 Once the development phase of the project is over, don't forget to backup and delete any staging resources that may have costs associated, so we keep our client's bills as low as possible.
 
 
