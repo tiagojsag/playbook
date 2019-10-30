@@ -47,6 +47,7 @@ Once the project is over, and if we are not anticipating any further work, we sh
 ### When "we" are the client
 
 For some projects, we are our own client (for example, grant-based projects), so the above doesn't apply. For those situations, Vizzuality has its own set of accounts on Google, AWS, etc, that we can use to host and support our own projects, keeping in mind the following:
+- First of all, you need to check with the PM if it's ok to allocate these resources to the project. The PM should check what the contract says about this type os costs, and decide how to proceed. 
 - Our accounts can have resources allocated to multiple projects, so be sure to name and/or tag the resource in a way that makes it easy to match it to its corresponding project.
 - For the same reason, clearly identify if a resource is a staging resource, and can be deleted once the development phase is over.
 - On the project documentation, clearly identify these dependencies on external services, should we need to make adjustments in the future (ie: renew api keys, migrate accounts, account spring cleaning, etc). 
