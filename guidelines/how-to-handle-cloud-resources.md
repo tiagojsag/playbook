@@ -37,6 +37,12 @@ During this, we should use and recommend to clients our [security best practices
 
 Once the development phase of the project is over, don't forget to backup and delete any staging resources that may have costs associated, so we keep our client's bills as low as possible.
 
+#### How to handle credentials for client owned accounts
+
+Once resources are provisioned, you should save any and all credentials to Lastpass, and share them with the team members that may need access to them. Do not keep these on your Lastpass account only, as this exposes the team to [the bus factor](https://en.wikipedia.org/wiki/Bus_factor). Additionally, some credentials are only available when created, so if you don't save them straight away, you may need to regenerate them, which means updating servers, etc.
+
+Once the project is over, and if we are not anticipating any further work, we should recommend that the client resets passwords, so they have exclusive access to their accounts.
+
 
 ### When "we" are the client
 
@@ -47,6 +53,10 @@ For some projects, we are our own client (for example, grant-based projects), so
 - Talk with the PM so the cost of these resources can be accounted for.
 
 
-### How to handle credentials
+#### How to handle credentials for our accounts
 
-Once resources are provisioned, you should save any and all credentials to Lastpass, and share them with the team members that may need access to them. Do not keep these on your Lastpass account only, as this exposes the team to [the bus factor](https://en.wikipedia.org/wiki/Bus_factor). Additionally, some credentials are only available when created, so if you don't save them straight away, you may need to regenerate them, which means updating servers, etc etc.
+Once resources are provisioned, you should save any and all credentials to Lastpass. Given that Vizzuality accounts will be needed for longer than the duration of a single project, you should check if the particular platform you are using supports having different user accounts per person. If it does, take your time to set up your own account, instead of using someone else's. Be sure to follow the [security best practices](https://github.com/Vizzuality/playbook/blob/master/guidelines/security.md) when it comes to things like password strength, storage and 2 factor authentication.
+
+If you are creating a new account on a new service, or if the service does not allow or have more than one set of access credentials, be sure to store the credentials on Lastpass, so we are less exposed to [the bus factor](https://en.wikipedia.org/wiki/Bus_factor). Additionally, some credentials are only available when created, so if you don't save them straight away, you may need to regenerate them, which means updating servers, etc.
+
+When setting up a new login for a colleague, you may need to define roles and permissions. When doing so, talk with them about which tasks they will be carrying out, and grant them the minimum needed permissions to carry out those tasks. Hacks happen, so the less permissions an account has, the less damage is done in case its compromised. 
