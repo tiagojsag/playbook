@@ -13,7 +13,7 @@ LastPass allows you to quickly and easily generate passwords that match the crit
  it detects you are sharing the same password across multiple services, which you can use to quickly audit your current
  passwords
  
-Apart from treating your passwords like you would treat your underwear (Change them often, never share them with anyone, don't leave them on your desk) it's also important to check regularly for possible known data breachaes. A useful service for this is provided at https://monitor.firefox.com/ 
+Apart from treating your passwords like you would treat your underwear (Change them often, never share them with anyone, don't leave them on your desk) it's also important to check regularly for possible known data breaches. A useful service for this is provided at https://monitor.firefox.com/ 
  
 ### What to do in case one of your online accounts is compromised
  
