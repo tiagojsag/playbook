@@ -17,7 +17,7 @@ These steps to subscribe to a calendar via the Google Calendar web should only b
 Repeat to subscribe to both calendars. 
 
 # Book a meeting room
-Via the Google Calendar web check the availability of the meeting rooms by enabling their calendars. Drag in the calendar the desired slot. In the pop up select the calendar of the room of interest. From here it is also possible to invite all the people involved in the meeting. 
+Via the Google Calendar web check the availability of the meeting rooms by enabling their calendars. Drag in the calendar the desired slot. In the pop up select the calendar of the room of interest. From here it is also possible to invite all the people involved in the meeting. It is also possible to create the event in your own calendar and invite the Meeting Room of choice. Either way, it is important to double check the correct meeting room has been booked. 
 
 # Change meeting room or cancel booking
 Via the Google Calendar web edit the event and change the calendar it belongs to. The change can be to the other meeting room (make sure you check the availability) or to your own calendar (this will cancel the booking). 
