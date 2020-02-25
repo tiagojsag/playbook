@@ -9,13 +9,14 @@
 - [x] [Design system](design-system.md)
 - [x] [Getting Started at Vizzuality](how-to-get-started-at-vizzuality.md)
 - [x] [Hiring](hiring.md)
+- [x] [How to handle cloud resources](how-to-handle-cloud-resources.md)
 - [x] [Professional Guidance](professional-guidance.md)
 - [x] [Remote work](remote-work.md)
 - [x] [Running large events](how-to-run-big-events.md)
 - [x] [Security](security.md)
 - [x] [Writing Proposals](writing-proposals.md)
 - [x] [Visiting other offices](visiting-other-offices.md)
-- [x] [How to handle cloud resources](how-to-handle-cloud-resources.md)
+
 
 
 To learn how to create or amend guidelines read [this](https://github.com/Vizzuality/playbook/blob/master/README.md)
