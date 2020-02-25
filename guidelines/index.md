@@ -3,6 +3,7 @@
 - [x] [Abscences](absences.md)
 - [x] [Be a Buddy](be-a-buddy.md)
 - [x] [Benefits](benefits.md)
+- [x] [Booking Madrid meeting room](madrid-meeting-room.md)
 - [x] [Claiming Expenses](claiming-expenses.md)
 - [x] [Competencies](competencies.md)
 - [x] [Design system](design-system.md)
