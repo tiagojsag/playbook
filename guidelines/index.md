@@ -14,6 +14,7 @@
 - [x] [Security](security.md)
 - [x] [Writing Proposals](writing-proposals.md)
 - [x] [Visiting other offices](visiting-other-offices.md)
+- [x] [How to handle cloud resources](how-to-handle-cloud-resources.md)
 
 
 To learn how to create or amend guidelines read [this](https://github.com/Vizzuality/playbook/blob/master/README.md)
