@@ -1,4 +1,4 @@
-## Organising a Lightning Talk :zap:
+## Organising a Brown Bag Talk 
 This guideline shows the steps to follow after you have decided to organise a lightning talk (i.e. it does not cover the steps to decide if you should give a lightning talk).
 As the organiser of a Lightning talk there are a few steps to follow to make sure it goes as you expect. 
 ### 1. Scheduling the lightning talk
