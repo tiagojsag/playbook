@@ -6,6 +6,14 @@ This guideline covers the steps you should take should you need a cloud resource
 
 Most of our projects require some sort of hosting to run on, be it a server to run code on, some hosting-as-a-service like Heroku, and S3 bucket to store files etc. More complex projects may need certain services, like Carto, Google Earth Engine, Transifex, etc.
 
+In general we propose this rules to be follow prior setting up any resource:  
+* Restrict access to cloud account/roles “need to have” basis
+* Provisioning resources should be done in communication with the PM and/or client, so we can be sure we/the client can support the new cost
+* Every resource request needs to have a budget/cost estimation prior to being requested, so we/the client can make an informed decision
+* There will be a follow up responsability that needs to be assign when this resource is set in place so we are able to detect raising costs not expected.
+* We’ll document the top cloud providers calculator tools for ease, but if you wanna use something else, you will be responsible to search and document the tool used to do those calculations.
+
+
 
 ### Resources owned by the client
 
