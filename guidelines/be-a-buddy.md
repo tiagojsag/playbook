@@ -1,6 +1,6 @@
 #**Being a great buddy**
 
-You should be assigned to your buddy by the Manager who hired that person the week before they arrive. Ideally you would work in a similar role to the new starter, so you can provide support at work and getting all the different systems to setup. 
+You should be assigned to your buddy by the team who hired that person the week before they arrive. Ideally you would work in a similar role to the new starter, so you can provide support at work and getting all the different systems to setup. 
 
 You (and they) will receive tasks to complete via Bamboo; make sure to tick them off once you complete them!
 
