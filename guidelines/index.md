@@ -12,6 +12,7 @@
 - [x] [How to handle cloud resources](how-to-handle-cloud-resources.md)
 - [x] [Professional Guidance](professional-guidance.md)
 - [x] [Remote work](remote-work.md)
+- [x] [Remote Work Self Assessment](remote-work-self-assessment.md)
 - [x] [Running large events](how-to-run-big-events.md)
 - [x] [Security](security.md)
 - [x] [Writing Proposals](writing-proposals.md)
