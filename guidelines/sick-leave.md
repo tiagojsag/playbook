@@ -16,11 +16,11 @@ As soon as you know that you are sick and will not be able to work/go to the off
 
   
 
-The next step should be using the “I’m sick” workflow option :zap:, using the workflow found on the left-hand side of the message box at the #general channel.
+The next step should be using the “I’m sick” workflow option, using the workflow found on the left-hand side of the message box at the #general channel.
 
   
 
-Also, update your slack status with the sick emoji :face_with_thermometer: `:face_with_thermometer:`. This will be helpful for anyone trying to contact you that missed the previous steps.
+Also, update your slack status with the sick emoji `:face_with_thermometer:`. This will be helpful for anyone trying to contact you that missed the previous steps.
 
   
 
