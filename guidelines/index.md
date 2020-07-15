@@ -15,9 +15,9 @@
 - [x] [Home Working  Self Assessment](home-working-self-assessment.md)
 - [x] [Running large events](how-to-run-big-events.md)
 - [x] [Security](security.md)
-- [x] [Writing Proposals](writing-proposals.md)
+- [x] [Sick leave](sick-leave.md)
 - [x] [Visiting other offices](visiting-other-offices.md)
-
+- [x] [Writing Proposals](writing-proposals.md)
 
 
 To learn how to create or amend guidelines read [this](https://github.com/Vizzuality/playbook/blob/master/README.md)
