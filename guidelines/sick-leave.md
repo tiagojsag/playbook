@@ -16,11 +16,11 @@ As soon as you know that you are sick and will not be able to work/go to the off
 
   
 
-The next step should be using the “I’m sick” workflow option, using the ![](https://lh5.googleusercontent.com/NoZE7-mix-BD5V69LKA-6OM4xZ4KDUqdMXyx-ledMwMWRLfD7OoL26N0L97wbpcW6srVWB88hp0x_rfTMSKOQeWVI0z6aePAZln4O6JNHX2JBY8Q_LbqDkorXu6fBTEo4gEs0Sn8) found on the left-hand side of the message box at the #general channel.
+The next step should be using the “I’m sick” workflow option, using the ![](https://lh5.googleusercontent.com/NoZE7-mix-BD5V69LKA-6OM4xZ4KDUqdMXyx-ledMwMWRLfD7OoL26N0L97wbpcW6srVWB88hp0x_rfTMSKOQeWVI0z6aePAZln4O6JNHX2JBY8Q_LbqDkorXu6fBTEo4gEs0Sn8 =20x) found on the left-hand side of the message box at the #general channel.
 
   
 
-Also, update your slack status with the sick emoji ![](https://lh4.googleusercontent.com/5E4cRWnvXu1NLzOqYAsp3iSSFrI4ckQ0cQadbqnuBOlyaTmkpZryoeaXFENmKhU4987aTccDtOoiLUCRgCt6Fp0Igh9rZsB-ntbbnDX8BgH9bcEmLyg5WioEcWDP0fO3P8mP2Q79). This will be helpful for anyone trying to contact you that missed the previous steps.
+Also, update your slack status with the sick emoji ![](https://lh4.googleusercontent.com/5E4cRWnvXu1NLzOqYAsp3iSSFrI4ckQ0cQadbqnuBOlyaTmkpZryoeaXFENmKhU4987aTccDtOoiLUCRgCt6Fp0Igh9rZsB-ntbbnDX8BgH9bcEmLyg5WioEcWDP0fO3P8mP2Q79 =20x). This will be helpful for anyone trying to contact you that missed the previous steps.
 
   
 
@@ -47,7 +47,7 @@ Please make sure to scan or take a photo of the sick note and send it to @Liuba 
 
   
 
-*If the sick leave is due to COVID-19, you need to let us know specifically, as the Asesoría will process it as an “accidente laboral”. You will benefit from this by receiving 100% of your salary during the sick leave.*
+<span style="color:blue">*If the sick leave is due to COVID-19, you need to let us know specifically, as the Asesoría will process it as an “accidente laboral”. You will benefit from this by receiving 100% of your salary during the sick leave.*</span>
 
   
 
