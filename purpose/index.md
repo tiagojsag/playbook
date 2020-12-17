@@ -2,7 +2,7 @@
 
 ### **Our purpose is the creation of a better future for our planet and society.**
 
-This vision was accepted by consent in a whole-company xmas quiz on December 17th 2020.
+This vision was accepted by whole-company xmas quiz on December 17th 2020.
 
 # Vision Statements
 
