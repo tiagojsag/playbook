@@ -5,7 +5,6 @@
 
 This vision was accepted by consent in a whole-company workshop in May 2018 and updated to include a short opening statement in Dec 2020. 
 
-
 # Vision Statements
 
 Vision statements are meant to be a more practical and measurable expression of the Purpose. Within five years, what would we like to achieve? It is intended that these statements help everyone at the company understand what we are aiming for, and also to help them make decisions about where to focus their energies. If you're doing a task and it isn't contributing to the vision, ask yourself how you can alter it so that it's helping us create the company we all want. 
