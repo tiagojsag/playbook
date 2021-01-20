@@ -8,7 +8,6 @@
 - 22 days of vacation (plus the bank holidays) and an additional one on your birthday.
 - Flexible schedules including the possibility of sporadic remote work.
 - Recruiting bonus. If you bring someone you know to the team and we hire them you get 1000 € after six months.
-- One extra month of paternity leave :baby:
 
 ## Specific by location
 
