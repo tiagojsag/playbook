@@ -1,10 +1,12 @@
+# Slack Guidelines
+## Motivations
 The aim of the slack guidelines is to: (1) help on transparency, organisation of information, (2) reduce noise and lack of focus, which lead to more efficiency and better well being.
 
 Slack is expected to be an asynchronous form of communication. It is not aimed at documenting decisions and storing important documents.
 
 -   Synchronous communication: communication that happens in real-time, with instant reads and responses.
     
--   Asynchronous communication: communication that does not happen in real-time, where responses are intermittent.
+-   Asynchronous communication: communication that does not happen in real-time, where responses are intermittent and delayed.
     
 
   
@@ -38,9 +40,7 @@ Consider using Slack's [Sections](https://slack.com/intl/en-es/help/articles/360
 -   **Sections**: You can organise your channels in Slack using [sections](https://slack.com/intl/en-es/help/articles/360043207674-Organize-your-sidebar-with-custom-sections).  
     This is very personal and depending on how you want to organise your slack you choose how categorise the channels. Some ways are categorising by project, functional area, topic, or how frequently you have to check them...
     
--   **Channel presence**: leaving a channel is not a problem, come and go as you like.  
-    NOTE: See below usage guidelines, we assume that people on a channel are interested in the topic, and anybody who does not actively participate consents to what is being said.  
-    That’s why is important to post everything publicly and on the right channels and tag people or groups when necessary,
+-   **Channel presence**: Make sure you regularly do a channel purge. Remember, leaving a channel is not a problem, come and go as you like.  
     
 -   The [status and availability in Slack](https://slack.com/intl/en-es/help/articles/201864558-Set-your-Slack-status-and-availability)  can help inform everyone on how quickly you might be able to respond. You can use a custom status and duration, but we have some predefined ones in our workspace:  
     - `In a meeting`: (lasts an hour) It synchronises with your Google Calendar, or you can put it manually.  
@@ -78,7 +78,7 @@ Anyone can create a channel. There is a list of current channels in [this doc](h
 2.  Set a channel name that states the purpose of the channel, use the naming nomenclature. Be highly descriptive in the name. Where appropriate use the full project or Functional Area names especially where acronyms are not well known (e.g. `#half-earth-whatever`, not `#he-whatever`).
     
 
-    1.  use hyphens/dashes separators
+    1.  use hyphen/dash separators
     
     2.  Name should include one or several of the following:
     
@@ -129,32 +129,33 @@ Anyone can create a channel. There is a list of current channels in [this doc](h
 ### Public channels
 
 Public Slack channels are used for digital communication. This saves time in filling others in on statuses of projects and helps collaboration.
+People on a channel are interested in the topic right now, and anybody who does not actively participate consents to what is being said.  That’s why is important to post everything publicly and on the right channels and tag people or groups when necessary. 
 
--   `@channel` or `@here` should be avoided unless really necessary - meaning everyone in that channel should be **immediately** aware of something.
+-   `@channel` or `@here` should be avoided unless really necessary - meaning everyone in that channel should be **immediately** aware of something. Find out more about these handles in the [slack documentation](https://slack.com/intl/en-es/help/articles/202009646-Notify-a-channel-or-workspace#:~:text=%40everyone%20notifies%20every%20person%20in,active%20members%20of%20a%20channel.&text=If%20there%20are%2010%2C000%20members,use%20%40channel%20or%20%40here)
     
 -   Find out if the channel uses a group handle (this information should be in the description of the channel).
     
--   Discussions should be kept within threads and the outcome of the conversation shared as well in the channel. The `:thread:` emoji is used to remind of this guideline.
+-   Discussions should be kept within threads and the outcome of the conversation shared as well in the channel. The `:thread:` emoji is used to remind of this guideline. Discussion threads make the page history easily navigable and reduces the noise in any given channel down to a simple index of topics. Remember that slack is not aimed at documenting dicisions, make sure the outcome is properly documented outside of Slack (e.g. project folder, wiki...)
     
 -   Acknowledge reading messages with an emoji. Unlikely threads, reacting with an emoji does not automatically start to follow a thread and reduces the number of notifications.
     
 
 ### Direct messages
 
-When using private messages be aware that private messages discourage collaboration. You might actually be contacting the wrong person, and they cannot easily redirect you to the right person. If the person is unavailable at the moment, it is less efficient because other people cannot jump in and help. You might rather use a public channel and mention the person or group you want to reach. In that way it is easier for other people to chime in, involve other people if needed, and learn from whatever is discussed.
+When using direct messages be aware that direct messages discourage collaboration. You might actually be contacting the wrong person, and they cannot easily redirect you to the right person. If the person is unavailable at the moment, it is less efficient because other people cannot jump in and help. You might rather use a public channel and mention the person or group you want to reach. In that way it is easier for other people to chime in, involve other people if needed, and learn from whatever is discussed.
 
 -   Project related conversations should happen in project channels.
     
 
 ### Group direct messages
 
-When using group private messages keep in mind that they are very hard to maintain, track and respond to. You might want to consider whether the conversation can take place in a public channel.
+When using group direct messages keep in mind that they are very hard to maintain, track and respond to. You might want to consider whether the conversation can take place in a public channel.
 
 ## Channels
 
 ### User group handles
 
-From the side bar you can see which [user groups](https://slack.com/intl/en-es/help/articles/212906697-Create-a-user-group) already exist (People and user groups). Some channels have specified user groups. Also user group handles allow to reduce the noise of using `@channel` and `@here`. Each individual can choose to be in a user group. So far there are two useful types of handles:
+From the side bar you can see which [user groups](https://slack.com/intl/en-es/help/articles/212906697-Create-a-user-group) already exist (People and user groups - this may be hidden inside the `More...` tab). Some channels have specified user groups (check the description of the channel). Also user group handles allow to reduce the noise of using `@channel` and `@here`. Each individual can choose to be in a user group. So far there are two useful types of handles:
 
 -   **User groups of a functional area**: `@backend`, `@bd`, `@designers`, `@resigners`, `@fronterizos`, `@pms`, `@researchers`, `@science`. These handles are useful to notify people from a Functional area in a channel where they are not expected to be or there is not knows representative. The `:at:` emoji is used to remind of this guideline and you can use a thread to mention the user group.
     
@@ -234,18 +235,18 @@ Join functional areas channels if you are interested in keeping up with updates 
 
 Join project related channels if you are interested in keeping up with updates from those teams. Depending on the project or the cycle moment of the project other project related channels might be created and any decision carried out inside reported back to the main project channel.
 
--   `#Project-name-channel`: Debriefing from client meetings, broadcasting outcomes from meetings, discussions on the wide scope of the project live here.
+-   `#<Project name>-channel`: Debriefing from client meetings, broadcasting outcomes from meetings, discussions on the wide scope of the project live here.
     
 
--   `#Project-name-dev`: The different team members should ask for information to other members in this channel, the day to day teamwork happens here.
+-   `#<Project name>-dev`: The different team members should ask for information to other members in this channel, the day to day teamwork happens here.
     
 
--   `#Project-name-<fa>`: Large projects with several people from the same functional area might have a subchannel to carry out discussions. The #project-name-channel must be updated with updates and decisions.
+-   `#<Project name>-<fa>`: Large projects with several people from the same functional area might have a subchannel to carry out discussions. The #project-name-channel must be updated with updates and decisions.
     
 
 ### Social Channels (not an exhaustive list)
 
--   Thematic: `books`, `#gamez`, `#music`, `#pets`, `#run`
+-   Thematic: `#books`, `#gamez`, `#music`, `#pets`, `#run`
     
 -   Geographic: `#madrizz`, `#uk-crew`, `#portugal`
 
