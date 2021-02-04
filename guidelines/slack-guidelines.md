@@ -69,7 +69,7 @@ Slack is a place to discuss topics, and in Vizzuality we embrace conflict in a p
 
 ## Channel Life Cycle
 
-Anyone can create a channel. There is a list of current channels in [this doc](https://docs.google.com/spreadsheets/d/18FrEu9G8pH7LSe13YnwxfZusUDzsbuzk5wFOT7La4Xc/edit#gid=0), it is updated monthly.
+Anyone can create a channel. There is a list of current channels in [this doc](https://docs.google.com/spreadsheets/d/18FrEu9G8pH7LSe13YnwxfZusUDzsbuzk5wFOT7La4Xc/edit#gid=0), it is updated monthly with a manual trigger.
 
 ### Guidelines to add a new channel:
 
@@ -123,8 +123,6 @@ Anyone can create a channel. There is a list of current channels in [this doc](h
   
 
 ## Channels vs Direct messages
-
-### Note: We don't use the term private message, because these direct messages are not inherently private like a phone call or private letter. The messages are potentially accessible by Workspace admins or via Backups. Slack refers to these types of messages as [direct messages themselves](https://slack.com/intl/en-de/help/articles/212281468-What-is-a-direct-message).
 
 ### Public channels
 
@@ -184,12 +182,13 @@ These channels do not have constant activity but they are operational and concen
 #### Operational channels:
 
 -   `#all-hands`: where we work on our playbook and the all hands call agenda is shared.
+-    `vizz-tracker`: where issues and questions about VizzTracker are shared. 
     
 -   `#one-team`: where we organise discussions on internal functioning.
     
 -   `#blogin-taxonomy`: where we iterate on the taxonomy of Blogin categories.
 
-- `capacity-planning`: where capacity for new and ongoing projects is organised. Use the `request a team for new project` workflow to reach the functional area representatives.
+- `#capacity-planning`: where capacity for new and ongoing projects is organised. Use the `request a team for new project` workflow to reach the functional area representatives.
     
 -   `#remote-experience`: to discuss material and practices that should improve remote interactions.
 
@@ -238,7 +237,7 @@ Join project related channels if you are interested in keeping up with updates f
 -   `#<Project name>-channel`: Debriefing from client meetings, broadcasting outcomes from meetings, discussions on the wide scope of the project live here.
     
 
--   `#<Project name>-dev`: The different team members should ask for information to other members in this channel, the day to day teamwork happens here.
+-   `#<Project name>-dev`: The different team members should ask for information to other members in this channel during the development of the channel.
     
 
 -   `#<Project name>-<fa>`: Large projects with several people from the same functional area might have a subchannel to carry out discussions. The #project-name-channel must be updated with updates and decisions.
