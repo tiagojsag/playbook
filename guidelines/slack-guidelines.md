@@ -127,7 +127,8 @@ Anyone can create a channel. There is a list of current channels in [this doc](h
 ### Public channels
 
 Public Slack channels are used for digital communication. This saves time in filling others in on statuses of projects and helps collaboration.
-People on a channel are interested in the topic right now, and anybody who does not actively participate consents to what is being said.  That’s why is important to post everything publicly and on the right channels and tag people or groups when necessary. 
+People on a channel are interested in the discussion of a topic right now. When decision-making is needed, a clear timeline should be stated and the affected parties directly informed (tagging individuals or user groups) to ensure asynchronous reviewing. This ensures that people can be present, leave and rejoin channels as they please, remember, the affected parties are tagged when necessary.
+
 
 -   `@channel` or `@here` should be avoided unless really necessary - meaning everyone in that channel should be **immediately** aware of something. Find out more about these handles in the [slack documentation](https://slack.com/intl/en-es/help/articles/202009646-Notify-a-channel-or-workspace#:~:text=%40everyone%20notifies%20every%20person%20in,active%20members%20of%20a%20channel.&text=If%20there%20are%2010%2C000%20members,use%20%40channel%20or%20%40here)
     
