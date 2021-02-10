@@ -15,6 +15,7 @@
 - [x] [Home Working  Self Assessment](home-working-self-assessment.md)
 - [x] [Running large events](how-to-run-big-events.md)
 - [x] [Salary Review 2021](salary-review-2021.md) 
+- [x] [Slack Guidelines](slack-guidelines.md)
 - [x] [Security](security.md)
 - [x] [Sick leave](sick-leave.md)
 - [x] [Visiting other offices](visiting-other-offices.md)
