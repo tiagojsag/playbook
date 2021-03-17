@@ -4,24 +4,24 @@
 
 <!-- MarkdownTOC -->
 
-- **The team**
-    - **Roles**
-- **Events**
-    - **The Sprint**
-    - **The Weekly Meeting**
-    - **The Daily Meeting**
-- **Working in Jira**
-    - **Setting up a project**
-    - **Project roles in Jira**
-    - **Issues**
-    - **Story Points**
-    - **Sprint Planning**
-    - **Continuous delivery**
-    - **Quality assurance**
-    - **Releases**
-    - **Incident response**
-- **Definition of Done**
-- **Exceptions for this framework**
+- [**The team**](#the-team)
+    - [**Roles**](#roles)
+- [**Events**](#events)
+    - [**The Sprint**](#the-sprint)
+    - [**The Weekly Meeting**](#the-weekly-meeting)
+    - [**The Daily Meeting**](#the-daily-meeting)
+- [**Working in Jira**](#working-in-jira)
+    - [**Setting up a project**](#setting-up-a-project)
+    - [**Project roles in Jira**](#project-roles-in-jira)
+    - [**Issues**](#issues)
+    - [**Story Points**](#story-points)
+    - [**Sprint Planning**](#sprint-planning)
+    - [**Continuous delivery**](#continuous-delivery)
+    - [**Quality assurance**](#quality-assurance)
+    - [**Releases**](#releases)
+    - [**Incident response**](#incident-response)
+- [**Definition of Done**](#definition-of-done)
+- [**Exceptions for this framework**](#exceptions-for-this-framework)
 
 <!-- /MarkdownTOC -->
 
@@ -70,7 +70,7 @@ There must also exist a** Technical Lead **to facilitate the integration of the 
 
 The default sprint duration is two weeks. It is possible to decide on a different timing if this is beneficial for the project at a given stage. Still, it is vital to avoid a constant variation because it will prevent learning the team's velocity and plan the sprints adequately.
 
-It is crucial to avoid the inclusion of new tasks in the sprint or to iterate on the tasks that are in an active sprint. 
+It is crucial to avoid the inclusion of new tasks in the sprint or to iterate on the tasks that are in an active sprint.
 
 
 ### **The Weekly Meeting**
@@ -133,7 +133,7 @@ Users with the Jira admin role can set up projects. It is essential to follow th
 6.  Click on "Create."
 
 
-![alt_text](images/image1.png "image_tooltip")
+![creating a project in Jira](images/create_project.png "creating a project in Jira")
 
 **Setting up the project board**
 
@@ -217,7 +217,7 @@ A sprint should follow the following premises:
 
 
 * The sprint must have a defined goal.
-* Issues must contain a precise definition, both in the language and in the scope of work. If a task is not defined or is a candidate for iterations, it should not be part of the sprint; it is possible to write a spike issue to get a clear definition instead. If an issue is poorly described or the summary is not clear enough, it should be rewritten. 
+* Issues must contain a precise definition, both in the language and in the scope of work. If a task is not defined or is a candidate for iterations, it should not be part of the sprint; it is possible to write a spike issue to get a clear definition instead. If an issue is poorly described or the summary is not clear enough, it should be rewritten.
 * Issues must have story points assigned.
 * Issues must belong to a software version; it is possible to change this version later if the resulting feature is not ready for release within that version.
 * Sprint candidate issues have a greater priority than other backlog issues. Product, client, or development needs, establish this priority.
@@ -266,7 +266,7 @@ Release notes are the tool to keep stakeholders updated on the project status an
 
 Delivery of the sprint goal will sometimes be affected by responding to expedited requests, like incidents in production environments. The approach we take is that as we keep tracking the team's velocity, the effect of such incidents on sprint delivery will be reflected in that metric, allowing us to plan sprints more realistically.
 
-Production incidents are the most obvious sign of low quality from the client's perspective, and we should strive to reduce their number of occurrences and criticality by better QA practices. To better understand the problem and see the improvements from our quality processes, we should track those incidents, particularly the time spent fixing them. We can follow these steps: 
+Production incidents are the most obvious sign of low quality from the client's perspective, and we should strive to reduce their number of occurrences and criticality by better QA practices. To better understand the problem and see the improvements from our quality processes, we should track those incidents, particularly the time spent fixing them. We can follow these steps:
 
 
 
@@ -288,7 +288,7 @@ An issue is done when:
 
 ## **Exceptions for this framework**
 
-The framework described in this document must be adopted in every project; it is an essential part of our standardization process. There may be exceptions to satisfy the client or other stakeholders' demands for a given situation or when the project itself has justified requirements. 
+The framework described in this document must be adopted in every project; it is an essential part of our standardization process. There may be exceptions to satisfy the client or other stakeholders' demands for a given situation or when the project itself has justified requirements.
 
 For these cases, it is possible to implement an exception both for the project framework and the Jira scheme. A dedicated meeting must address the possible solutions, including a Jira super-admin and other accountable persons.
 
