@@ -106,6 +106,7 @@ Sprint review:
 * Possible demo: this is an optional activity to showcase an important feature or a smart implemented solution. The purpose is to recognize success and learn from others.
 * Sprint goals check-in: ensure sprint success, taking action for any other problem that may put the sprint goal at risk.
 
+![Weekly meeting](images/weekly.png "Weekly meeting")
 
 ### **The Daily Meeting**
 
@@ -148,12 +149,7 @@ The user must be part of the project's team to complete the following procedure.
 
 The board should contain the columns “Blocked”, “To Do”, “In Progress”, “QA”, and “Done”, with their corresponding status cards inside.
 
-![alt_text](images/image3.png "image_tooltip")
-
-
-![alt_text](images/image4.gif "image_tooltip")
-Double-click for Image Properties​
-
+![Scrum board](images/board.png "Scrum board")
 
 ### **Project roles in Jira**
 
