@@ -1,4 +1,5 @@
 
+
 # **Agile Framework**
 
 <!-- MarkdownTOC -->
@@ -24,32 +25,32 @@
 
 <!-- /MarkdownTOC -->
 
-## **The team**<a name="the_team"></a>
+## **The team**
 
 
-### **Roles**<a name="roles"></a>
+### **Roles**
 
 **Product success accountable person**:
 
 
 
-*       Define the product vision.
-*       Add value.
-*       Represent the client.
-*       Define epics, milestones, and priorities.
-*       Grant the definition of done.
-*       Keep scope and budget.
+* Define the product vision.
+* Add value.
+* Represent the client.
+* Define epics, milestones, and priorities.
+* Grant the definition of done.
+* Keep scope and budget.
 
 **Project facilitation accountable person**:
 
 
 
-*       Coordinate events.
-*       Organize issues in Jira.
-*       Create and close sprints.
-*       Maintain the issues backlog.
-*       Supervise Jira's issues, their language, score, and other aspects.
-*       Follow the rules described in this guide, in general.
+* Coordinate events.
+* Organize issues in Jira.
+* Create and close sprints.
+* Maintain the issues backlog.
+* Supervise Jira's issues, their language, score, and other aspects.
+* Follow the rules described in this guide, in general.
 
 Project managers may delegate one or both of these roles. This delegation must be explicit, ideally, at the project kick-off or at any time if it might benefit the project.
 
@@ -57,15 +58,15 @@ There must also exist a** Technical Lead **to facilitate the integration of the 
 
 
 
-*       Integrate source code repositories.
-*       Create a continuous deployment strategy for a dedicated testing environment.
-*       Supervise software versions and releases, including the deployment to staging and production environments.
+* Integrate source code repositories.
+* Create a continuous deployment strategy for a dedicated testing environment.
+* Supervise software versions and releases, including the deployment to staging and production environments.
 
 
-## **Events**<a name="events"></a>
+## **Events**
 
 
-### **The Sprint**<a name="the_sprint"></a>
+### **The Sprint**
 
 The default sprint duration is two weeks. It is possible to decide on a different timing if this is beneficial for the project at a given stage. Still, it is vital to avoid a constant variation because it will prevent learning the team's velocity and plan the sprints adequately.
 
@@ -80,12 +81,12 @@ The weekly meeting is a mandatory event for every project. There are two differe
 
 
 
-*       The recommendation is to do some individual work previous to this meeting, creating issues in the Jira backlog. It is possible to do this task at any moment during the sprint and as a natural flow that the development process may bring. Also, it is a good idea to reserve some personal time to do it one day before.
-*       Do a quick check-in for the previous sprint. Review unsolved issues and identify difficulties or possible risks from these.
-*       Backlog grooming: remove issues that are not relevant anymore, create new ones, prioritize.
-*       Issue estimation: estimate issues using story points to create the sprint; there is no way of knowing the team and individual workload if stories are unestimated.
-*       Create the sprint, assign a goal.
-*       Release plan: discuss the plan to release staging and production-ready versions.
+* The recommendation is to do some individual work previous to this meeting, creating issues in the Jira backlog. It is possible to do this task at any moment during the sprint and as a natural flow that the development process may bring. Also, it is a good idea to reserve some personal time to do it one day before.
+* Do a quick check-in for the previous sprint. Review unsolved issues and identify difficulties or possible risks from these.
+* Backlog grooming: remove issues that are not relevant anymore, create new ones, prioritize.
+* Issue estimation: estimate issues using story points to create the sprint; there is no way of knowing the team and individual workload if stories are unestimated.
+* Create the sprint, assign a goal.
+* Release plan: discuss the plan to release staging and production-ready versions.
 
 **Week 2, sprint and product review**
 
@@ -93,17 +94,17 @@ Product review:
 
 
 
-*       Budget check-in: review the budget and progress using Vizztracker, identify risks and plan accordingly.
-*       Adding value: evaluate the current value that we are adding to the product and find opportunities to increase it. Consider the remaining budget and schedule to implement these opportunities.
-*       Technical debt: evaluate the technical aspects of the project. Watch for unfinished or problematic aspects. Evaluate risks and costs and create a strategy for mitigation.
+* Budget check-in: review the budget and progress using Vizztracker, identify risks and plan accordingly.
+* Adding value: evaluate the current value that we are adding to the product and find opportunities to increase it. Consider the remaining budget and schedule to implement these opportunities.
+* Technical debt: evaluate the technical aspects of the project. Watch for unfinished or problematic aspects. Evaluate risks and costs and create a strategy for mitigation.
 
 Sprint review:
 
 
 
-*       Discuss blockers or uncertainties for particular Jira issues. Solve these or remove them from the sprint.
-*       Possible demo: this is an optional activity to showcase an important feature or a smart implemented solution. The purpose is to recognize success and learn from others.
-*       Sprint goals check-in: ensure sprint success, taking action for any other problem that may put the sprint goal at risk.
+* Discuss blockers or uncertainties for particular Jira issues. Solve these or remove them from the sprint.
+* Possible demo: this is an optional activity to showcase an important feature or a smart implemented solution. The purpose is to recognize success and learn from others.
+* Sprint goals check-in: ensure sprint success, taking action for any other problem that may put the sprint goal at risk.
 
 
 ### **The Daily Meeting**
@@ -160,11 +161,11 @@ There are the following project roles in a Jira project:
 
 
 
-*       **Administrators**: A project role that represents administrators in a project. An administrator has permissions for all the project settings and options.
-*       **Atlassian-addons-project-access**: A project role that represents Connect add-ons declaring a scope that requires more than reading issue permissions
-*       **Vizzuality Team**: Default project role for the Vizzuality team. This role has permission to operate with all the project functionalities.
-*       **Collaborator**: Project role for external developers. This role has the same permissions as the Vizzuality Team member, except sprint management and other minor details.
-*       **Customer**: Project role for customers. This role has permission to create and comment issues only.
+* **Administrators**: A project role that represents administrators in a project. An administrator has permissions for all the project settings and options.
+* **Atlassian-addons-project-access**: A project role that represents Connect add-ons declaring a scope that requires more than reading issue permissions
+* **Vizzuality Team**: Default project role for the Vizzuality team. This role has permission to operate with all the project functionalities.
+* **Collaborator**: Project role for external developers. This role has the same permissions as the Vizzuality Team member, except sprint management and other minor details.
+* **Customer**: Project role for customers. This role has permission to create and comment issues only.
 
 
 ### **Issues**
@@ -173,14 +174,14 @@ There are the following project roles in a Jira project:
 
 
 
-*       **Epic: **A big user story that needs to be broken down. Epics group together bugs, stories, and tasks to show the progress of a larger initiative. In agile development, epics usually represent a significant deliverable, such as a new feature or experience in the software. Epics are also the milestones displayed in the Roadmap.
-*       **Story: **A user story is the smallest unit of work that needs to be done. It maps to a feature that the user can test.
-*       **Task: **A task represents work that needs to be done. The principal difference with a story is that a task does not map directly to a feature that a user can test.
-*       **Subtask: **A subtask is a piece of work that is required to complete a task. Subtasks issues can break down any standard issues in Jira (bugs, stories, or tasks).
-*       **Bug: **A bug is a problem that impairs or prevents the functions of a product.
-*       **Spike: **An investment to make a story estimable or schedulable.
-*       **Incident**: A System outage or incident occurred at a given moment.
-*       **Problem**: Track underlying causes of incidents.
+* **Epic**: A big user story that needs to be broken down. Epics group together bugs, stories, and tasks to show the progress of a larger initiative. In agile development, epics usually represent a significant deliverable, such as a new feature or experience in the software. Epics are also the milestones displayed in the Roadmap.
+* **Story**: A user story is the smallest unit of work that needs to be done. It maps to a feature that the user can test.
+* **Task**: A task represents work that needs to be done. The principal difference with a story is that a task does not map directly to a feature that a user can test.
+* **Subtask**: A subtask is a piece of work that is required to complete a task. Subtasks issues can break down any standard issues in Jira (bugs, stories, or tasks).
+* **Bug**: A bug is a problem that impairs or prevents the functions of a product.
+* **Spike**: An investment to make a story estimable or schedulable.
+* **Incident**: A System outage or incident occurred at a given moment.
+* **Problem**: Track underlying causes of incidents.
 
 **Writing issues**
 
@@ -188,8 +189,8 @@ Issues must be written descriptively and comprehensively. It is imperative to va
 
 
 
-*       **Summary**. The summary must be short, but it has to offer enough context and information to understand the issue's nature and validate it without extra information. When it is a User Story, the recommendation is to place the user in the context, as in this example: "User can change the range of dates of data shown in the dashboard charts." When the issue is of type "task", it can be written in a straightforward and imperative language, for example: "Create the data migration to include the user roles."
-*       **Description**. The description is a longer text where all the details for the current task are written. This field may include links, steps to reproduce, minor details or edge cases, together with any other information that will clear any possible doubt to the issue assignee.
+* **Summary**. The summary must be short, but it has to offer enough context and information to understand the issue's nature and validate it without extra information. When it is a User Story, the recommendation is to place the user in the context, as in this example: "User can change the range of dates of data shown in the dashboard charts." When the issue is of type "task", it can be written in a straightforward and imperative language, for example: "Create the data migration to include the user roles."
+* **Description**. The description is a longer text where all the details for the current task are written. This field may include links, steps to reproduce, minor details or edge cases, together with any other information that will clear any possible doubt to the issue assignee.
 
 It is important to note that the "Summary" field equals the issue's description into the release notes. It must be meaningful outside the Jira backlog.
 
@@ -215,13 +216,13 @@ A sprint should follow the following premises:
 
 
 
-*       The sprint must have a defined goal.
-*       Issues must contain a precise definition, both in the language and in the scope of work. If a task is not defined or is a candidate for iterations, it should not be part of the sprint; it is possible to write a spike issue to get a clear definition instead. If an issue is poorly described or the summary is not clear enough, it should be rewritten. 
-*       Issues must have story points assigned.
-*       Issues must belong to a software version; it is possible to change this version later if the resulting feature is not ready for release within that version.
-*       Sprint candidate issues have a greater priority than other backlog issues. Product, client, or development needs, establish this priority.
-*       The team's velocity determines the number of issues included in a sprint. If there are no team velocity indicators yet, it is possible to consider setting a velocity goal and iterate in future sprints. The velocity goal is always prone to be improved.
-*       It is critical to check the individual's workload for a sprint, filtering by a given user and looking at the total story points. This initial indicator must be used in conjunction with the individual's appreciation, vacationing, absences, and project dedication.
+* The sprint must have a defined goal.
+* Issues must contain a precise definition, both in the language and in the scope of work. If a task is not defined or is a candidate for iterations, it should not be part of the sprint; it is possible to write a spike issue to get a clear definition instead. If an issue is poorly described or the summary is not clear enough, it should be rewritten. 
+* Issues must have story points assigned.
+* Issues must belong to a software version; it is possible to change this version later if the resulting feature is not ready for release within that version.
+* Sprint candidate issues have a greater priority than other backlog issues. Product, client, or development needs, establish this priority.
+* The team's velocity determines the number of issues included in a sprint. If there are no team velocity indicators yet, it is possible to consider setting a velocity goal and iterate in future sprints. The velocity goal is always prone to be improved.
+* It is critical to check the individual's workload for a sprint, filtering by a given user and looking at the total story points. This initial indicator must be used in conjunction with the individual's appreciation, vacationing, absences, and project dedication.
 
 
 ### **Continuous delivery**
@@ -239,9 +240,9 @@ There are three requisites to move an issue to the QA column:​
 
 
 
-*       The issue must be testable; this usually means deployed to a development environment. Developers are currently writing the strategies and guidelines for continuous deployment.
-*       If it is a user story, a user acceptance test is required in the form of Given, When, Then. There is a specific field for that into the Jira issue form.
-*        At least one reviewer must be assigned to the task.
+* The issue must be testable; this usually means deployed to a development environment. Developers are currently writing the strategies and guidelines for continuous deployment.
+* If it is a user story, a user acceptance test is required in the form of Given, When, Then. There is a specific field for that into the Jira issue form.
+* At least one reviewer must be assigned to the task.
 
 **How reviews work**
 
@@ -269,9 +270,9 @@ Production incidents are the most obvious sign of low quality from the client's 
 
 
 
-*       Create an "Incident" issue, for that matter. This issue will help watch how many incidents happen; this type of task should not be seen very often, as having many of these is a clear indicator that something is not working as it should in the QA or development process. Log the work for this incident by clicking on the issue details, Activity > Work log > log work.
-*       Create a "Problem" task if the fault is structural and requires more than solving the incident (you can plan when you need to work on this later).
-*       Create a release just for the hotfix.
+* Create an "Incident" issue, for that matter. This issue will help watch how many incidents happen; this type of task should not be seen very often, as having many of these is a clear indicator that something is not working as it should in the QA or development process. Log the work for this incident by clicking on the issue details, Activity > Work log > log work.
+* Create a "Problem" task if the fault is structural and requires more than solving the incident (you can plan when you need to work on this later).
+* Create a release just for the hotfix.
 
 
 ## **Definition of Done**
@@ -280,9 +281,9 @@ An issue is done when:
 
 
 
-*       It works as requested.
-*       It was tested, and it does not bring a regression.
-*       Others can see it.
+* It works as requested.
+* It was tested, and it does not bring a regression.
+* Others can see it.
 
 
 ## **Exceptions for this framework**
