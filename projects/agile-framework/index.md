@@ -106,7 +106,7 @@ Sprint review:
 * Possible demo: this is an optional activity to showcase an important feature or a smart implemented solution. The purpose is to recognize success and learn from others.
 * Sprint goals check-in: ensure sprint success, taking action for any other problem that may put the sprint goal at risk.
 
-![Weekly meeting](images/weekly.png "Weekly meeting")
+![Weekly meeting](images/weekly_meeting.png "Weekly meeting")
 
 ### **The Daily Meeting**
 
