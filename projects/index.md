@@ -1,7 +1,7 @@
 # Project Life Cycle.
 
 - [Intro ](##-intro)
-	- [Project life cycle ](##project-life-cycle)
+	- [Project life cycle ](###available-tools)
 
 ## Intro
 
