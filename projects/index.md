@@ -248,8 +248,6 @@ For cost tracking purposes on VizzTracker, we consider that 5% is roughly equiva
 
 ## Acquisition & proposal writing
 
-(We should ask Bernat to write the BD process after we are done with our part)
-
 Budget template - always use the original template. This template is updated every 6 months or so to reflect the current exchange rate USD/Eur and our internal rates.  
   
 A new project may start in different ways as explained on the [BD workflows document](https://docs.google.com/document/d/16OT8KCznUvRtp6hyFw9xHkJm8SsEFq2CrrepQA19ycc/edit#). There are also different proposal types, and a PM or members of other FAs might or might not be asked to participate in its writing (see different examples [1](https://docs.google.com/document/d/15Ng0Aj2ZPSxPVyIOSHM89Qso8TE_KTsVZ7d7bNaWSNg/edit#heading=h.hga7orl2o4xf), [2](https://docs.google.com/document/d/1Y_DuIzCT-l8EF_P9ez4mPJVAAKYmmMyk8etEsZcpA9Q/edit#heading=h.jglb0h8ylt24), [3](https://docs.google.com/document/d/1L2qLKPsaSDltCt3oL6w8WP99Rq7lUCKXRwSt_oQ5k_0/edit), [4](https://drive.google.com/drive/u/0/folders/1jJeGjm9TuyoNEIk_3kjPUCTO8ZpHsG8g)).  
