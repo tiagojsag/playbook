@@ -18,7 +18,7 @@
 - [x] [Slack Guidelines](slack-guidelines.md)
 - [x] [Security](security.md)
 - [x] [Sick leave](sick-leave.md)
-- [x] [Training Budget 2021](Training-Budget-2021.md)
+- [x] [Training Budget 2021](training-budget-2021.md)
 - [x] [Visiting other offices](visiting-other-offices.md)
 - [x] [Writing Proposals](writing-proposals.md)
 
