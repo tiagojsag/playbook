@@ -225,7 +225,7 @@ A sprint should follow the following premises:
 
 The technical lead will facilitate a continuous delivery system where the quality assignees can test all the issues when these take part in the "QA" column. This environment must be different from the production environment, and different back-end and front-end technologies may integrate the system.
 
-Current technologies in use are Vercel for the front-end and Jenkins for the back-end.
+Currently, projects which have a separate front-end CI/CD process use Vercel, in some cases only for development purposes, and in some also in production. For the back end, and for those projects with a unified BE / FE process, we use Jenkins, Capistrano, GH Actions, Travis CI, docker images, Code Climate (for test coverage).
 
 
 ### **Quality assurance**
