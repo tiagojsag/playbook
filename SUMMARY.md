@@ -105,3 +105,8 @@
 
 * [How To Create and Review Documents](tutorials/how-to-create-and-review-documents.md)
 
+## Templates
+
+* [SDS Template](templates/sds-template.md)
+* [ADR Template](templates/adr-template.md)
+

@@ -1,9 +1,5 @@
 # How To Create and Review Documents
 
-[How to create a new document]()
-
-[How to review a document]()
-
 ## How to CREATE a new document?
 
 {% hint style="warning" %}
